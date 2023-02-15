@@ -1,0 +1,2244 @@
+   <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <meta name="theme-color" content="">
+    <link rel="canonical" href="https://www.freakygeek.fr/products/amd-ryzen-5-5600x">
+    <link rel="preconnect" href="https://cdn.shopify.com" crossorigin><link rel="icon" type="image/png" href="//cdn.shopify.com/s/files/1/0689/8073/6268/files/3.png?crop=center&height=32&v=1675626977&width=32"><link rel="preconnect" href="https://fonts.shopifycdn.com" crossorigin><title>
+      AMD Ryzen 5 5600X
+ &ndash; Freaky Geek</title>
+
+    
+      <meta name="description" content="Socket AM4  Le processeur AMD Ryzen 5 5600X est spécialement conçu pour les jeux vidéo avec ses 6 cœurs, 12 threads et GameCache de 35 Mo. De plus, ses fréquences natives et boost élevées vous garantissent une expérience de jeu optimale pour tous vos titres préférés.">
+    
+
+    
+
+<meta property="og:site_name" content="Freaky Geek">
+<meta property="og:url" content="https://www.freakygeek.fr/products/amd-ryzen-5-5600x">
+<meta property="og:title" content="AMD Ryzen 5 5600X">
+<meta property="og:type" content="product">
+<meta property="og:description" content="Socket AM4  Le processeur AMD Ryzen 5 5600X est spécialement conçu pour les jeux vidéo avec ses 6 cœurs, 12 threads et GameCache de 35 Mo. De plus, ses fréquences natives et boost élevées vous garantissent une expérience de jeu optimale pour tous vos titres préférés."><meta property="og:image" content="http://cdn.shopify.com/s/files/1/0689/8073/6268/products/1edit_c1422a8c-c59d-448c-9ab0-d5ab2e75cb7f.png?v=1676214389">
+  <meta property="og:image:secure_url" content="https://cdn.shopify.com/s/files/1/0689/8073/6268/products/1edit_c1422a8c-c59d-448c-9ab0-d5ab2e75cb7f.png?v=1676214389">
+  <meta property="og:image:width" content="975">
+  <meta property="og:image:height" content="978"><meta property="og:price:amount" content="205.99">
+  <meta property="og:price:currency" content="EUR"><meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="AMD Ryzen 5 5600X">
+<meta name="twitter:description" content="Socket AM4  Le processeur AMD Ryzen 5 5600X est spécialement conçu pour les jeux vidéo avec ses 6 cœurs, 12 threads et GameCache de 35 Mo. De plus, ses fréquences natives et boost élevées vous garantissent une expérience de jeu optimale pour tous vos titres préférés.">
+
+
+    <script src="//cdn.shopify.com/s/files/1/0689/8073/6268/t/2/assets/global.js?v=149496944046504657681675519462" defer="defer"></script>
+    <script>window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.start');</script><meta id="shopify-digital-wallet" name="shopify-digital-wallet" content="/68980736268/digital_wallets/dialog">
+<meta name="shopify-checkout-api-token" content="960e54637e2d2a34b3d9f7b5b40f49cd">
+<meta id="in-context-paypal-metadata" data-shop-id="68980736268" data-venmo-supported="false" data-environment="production" data-locale="fr_FR" data-paypal-v4="true" data-currency="EUR">
+<link rel="alternate" type="application/json+oembed" href="https://www.freakygeek.fr/products/amd-ryzen-5-5600x.oembed">
+<script>
+  (function() {
+    var scripts = ["https://cdn.shopify.com/shopifycloud/checkout-web/assets/runtime.latest.fr.43505780ad53eca55ebf.js", "https://cdn.shopify.com/shopifycloud/checkout-web/assets/checkout-web-packages~Information~NoAddressLocation~Payment~PostPurchase~Review~Shipping~ShopPay~Sho~cf13f96e.latest.fr.04837ae4ff5a8e949953.js", "https://cdn.shopify.com/shopifycloud/checkout-web/assets/Information~Payment~ShopPay.latest.fr.224f04a475e1f4866fc7.js", "https://cdn.shopify.com/shopifycloud/checkout-web/assets/Information.latest.fr.98f613c0efbbd03d19f0.js", "https://cdn.shopify.com/shopifycloud/checkout-web/assets/checkout-web-ui~app.latest.fr.ce4569e779939a63461e.js", "https://cdn.shopify.com/shopifycloud/checkout-web/assets/vendors~app.latest.fr.db74468e917bf7a7a4b1.js", "https://cdn.shopify.com/shopifycloud/checkout-web/assets/checkout-web-packages~app.latest.fr.40414a68030410738d0e.js", "https://cdn.shopify.com/shopifycloud/checkout-web/assets/app.latest.fr.482e60af58a27c716498.js"];
+    var styles = ["https://cdn.shopify.com/shopifycloud/checkout-web/assets/checkout-web-ui~app.latest.fr.fc8b350bb1fb59066ae1.css", "https://cdn.shopify.com/shopifycloud/checkout-web/assets/vendors~app.latest.fr.ccba7e95e1cf96f23c66.css", "https://cdn.shopify.com/shopifycloud/checkout-web/assets/app.latest.fr.6b4c79ead7042980b29d.css", "https://cdn.shopify.com/shopifycloud/checkout-web/assets/Information~Payment~ShopPay.latest.fr.78e2c7ac72fdb66067d0.css", "https://cdn.shopify.com/shopifycloud/checkout-web/assets/Information.latest.fr.f45defd88fad3fa37d0a.css"];
+
+    function prefetch(url, as, callback) {
+      var link = document.createElement('link');
+      if (link.relList.supports('prefetch')) {
+        link.rel = 'prefetch';
+        link.fetchPriority = 'low';
+        link.as = as;
+        link.href = url;
+        link.onload = link.onerror = callback;
+        document.head.appendChild(link);
+      } else {
+        var xhr = new XMLHttpRequest();
+        xhr.open('GET', url, true);
+        xhr.onloadend = callback;
+        xhr.send();
+      }
+    }
+
+    function prefetchAssets() {
+      var resources = [].concat(
+        scripts.map(function(url) { return [url, 'script']; }),
+        styles.map(function(url) { return [url, 'style']; })
+      );
+      var index = 0;
+      (function next() {
+        var res = resources[index++];
+        if (res) prefetch(res[0], res[1], next);
+      })();
+    }
+
+    addEventListener('load', prefetchAssets);
+   })();
+</script>
+<script id="apple-pay-shop-capabilities" type="application/json">{"shopId":68980736268,"countryCode":"LU","currencyCode":"EUR","merchantCapabilities":["supports3DS"],"merchantId":"gid:\/\/shopify\/Shop\/68980736268","merchantName":"Freaky Geek","requiredBillingContactFields":["postalAddress","email","phone"],"requiredShippingContactFields":["postalAddress","email","phone"],"shippingType":"shipping","supportedNetworks":["visa","masterCard","amex"],"total":{"type":"pending","label":"Freaky Geek","amount":"1.00"},"shopifyPaymentsEnabled":false,"supportsSubscriptions":false}</script>
+<script id="shopify-features" type="application/json">{"accessToken":"960e54637e2d2a34b3d9f7b5b40f49cd","betas":["rich-media-storefront-analytics"],"domain":"www.freakygeek.fr","predictiveSearch":true,"shopId":68980736268,"smart_payment_buttons_url":"https:\/\/cdn.shopify.com\/shopifycloud\/payment-sheet\/assets\/latest\/spb.fr.js?v=2","dynamic_checkout_cart_url":"https:\/\/cdn.shopify.com\/shopifycloud\/payment-sheet\/assets\/latest\/dynamic-checkout-cart.fr.js?v=2","locale":"fr","optimusEnabled":false}</script>
+<script>var Shopify = Shopify || {};
+Shopify.shop = "freakygeek-fr.myshopify.com";
+Shopify.locale = "fr";
+Shopify.currency = {"active":"EUR","rate":"1.0"};
+Shopify.country = "LU";
+Shopify.theme = {"name":"1","id":140868616460,"theme_store_id":887,"role":"main"};
+Shopify.theme.handle = "null";
+Shopify.theme.style = {"id":null,"handle":null};
+Shopify.cdnHost = "cdn.shopify.com";
+Shopify.routes = Shopify.routes || {};
+Shopify.routes.root = "/";</script>
+<script type="module">!function(o){(o.Shopify=o.Shopify||{}).modules=!0}(window);</script>
+<script>!function(o){function n(){var o=[];function n(){o.push(Array.prototype.slice.apply(arguments))}return n.q=o,n}var t=o.Shopify=o.Shopify||{};t.loadFeatures=n(),t.autoloadFeatures=n()}(window);</script>
+<script>(function() {
+  function asyncLoad() {
+    var urls = ["https:\/\/cdn.shopify.com\/shopifycloud\/privacy-banner\/storefront-banner.js?shop=freakygeek-fr.myshopify.com","https:\/\/geolocation-recommendations.shopifyapps.com\/locale_bar\/script.js?shop=freakygeek-fr.myshopify.com","https:\/\/geolocation-recommendations.shopifyapps.com\/selectors\/script.js?shop=freakygeek-fr.myshopify.com","\/\/productreviews.shopifycdn.com\/embed\/loader.js?shop=freakygeek-fr.myshopify.com","https:\/\/cdn.shopify.com\/s\/files\/1\/0449\/2568\/1820\/t\/4\/assets\/booster_currency.js?v=1624978055\u0026shop=freakygeek-fr.myshopify.com","https:\/\/cdn.shopify.com\/s\/files\/1\/0449\/2568\/1820\/t\/4\/assets\/booster_currency.js?v=1624978055\u0026shop=freakygeek-fr.myshopify.com"];
+    for (var i = 0; i < urls.length; i++) {
+      var s = document.createElement('script');
+      s.type = 'text/javascript';
+      s.async = true;
+      s.src = urls[i];
+      var x = document.getElementsByTagName('script')[0];
+      x.parentNode.insertBefore(s, x);
+    }
+  };
+  if(window.attachEvent) {
+    window.attachEvent('onload', asyncLoad);
+  } else {
+    window.addEventListener('load', asyncLoad, false);
+  }
+})();</script>
+<script id="__st">var __st={"a":68980736268,"offset":3600,"reqid":"530b95ae-8873-4bb9-b68c-2f8a2c45b384","pageurl":"www.freakygeek.fr\/products\/amd-ryzen-5-5600x","u":"444496269d92","p":"product","rtyp":"product","rid":8227454517516};</script>
+<script>window.ShopifyPaypalV4VisibilityTracking = true;</script>
+<script>!function(o){o.addEventListener("DOMContentLoaded",function(){window.Shopify=window.Shopify||{},window.Shopify.recaptchaV3=window.Shopify.recaptchaV3||{siteKey:"6LcCR2cUAAAAANS1Gpq_mDIJ2pQuJphsSQaUEuc9"};var t=['form[action*="/contact"] input[name="form_type"][value="contact"]','form[action*="/comments"] input[name="form_type"][value="new_comment"]','form[action*="/account"] input[name="form_type"][value="customer_login"]','form[action*="/account"] input[name="form_type"][value="recover_customer_password"]','form[action*="/account"] input[name="form_type"][value="create_customer"]','form[action*="/contact"] input[name="form_type"][value="customer"]'].join(",");function n(e){e=e.target;null==e||null!=(e=function e(t,n){if(null==t.parentElement)return null;if("FORM"!=t.parentElement.tagName)return e(t.parentElement,n);for(var o=t.parentElement.action,r=0;r<n.length;r++)if(-1!==o.indexOf(n[r]))return t.parentElement;return null}(e,["/contact","/comments","/account"]))&&null!=e.querySelector(t)&&((e=o.createElement("script")).setAttribute("src","https://cdn.shopify.com/shopifycloud/storefront-recaptcha-v3/v0.6/index.js"),o.body.appendChild(e),o.removeEventListener("focus",n,!0),o.removeEventListener("change",n,!0),o.removeEventListener("click",n,!0))}o.addEventListener("click",n,!0),o.addEventListener("change",n,!0),o.addEventListener("focus",n,!0)})}(document);</script>
+<script>document.addEventListener('DOMContentLoaded', function() {
+  const adminBarInjector = new Shopify.AdminBarInjector({
+    targetNode: document.body,
+    iframeSrc: 'https://freakygeek-fr.myshopify.com/admin/bar?action_name=products&handle=amd-ryzen-5-5600x&path=%2Fproducts%2Famd-ryzen-5-5600x&storefront_country=LU&storefront_locale=fr',
+    permanentDomain: 'freakygeek-fr.myshopify.com',
+  });
+
+  adminBarInjector.init();
+});</script>
+<script integrity="sha256-4VRZk5nmuLKdyxECzHbrGZ+jOgmvT6eNFej4VE7mT80=" data-source-attribution="shopify.loadfeatures" defer="defer" src="//cdn.shopify.com/shopifycloud/shopify/assets/storefront/load_feature-e154599399e6b8b29dcb1102cc76eb199fa33a09af4fa78d15e8f8544ee64fcd.js" crossorigin="anonymous"></script>
+<script integrity="sha256-h+g5mYiIAULyxidxudjy/2wpCz/3Rd1CbrDf4NudHa4=" data-source-attribution="shopify.dynamic-checkout" defer="defer" src="//cdn.shopify.com/shopifycloud/shopify/assets/storefront/features-87e8399988880142f2c62771b9d8f2ff6c290b3ff745dd426eb0dfe0db9d1dae.js" crossorigin="anonymous"></script>
+<script integrity="sha256-AjT+yRYgO8z0L66BMKoqBvO4SrOWLJYnYYWthdsOhP4=" defer="defer" src="//cdn.shopify.com/shopifycloud/shopify/assets/storefront/bars/admin_bar_injector-0234fec916203bccf42fae8130aa2a06f3b84ab3962c96276185ad85db0e84fe.js" crossorigin="anonymous"></script>
+<script id="sections-script" data-sections="header,footer" defer="defer" src="//cdn.shopify.com/s/files/1/0689/8073/6268/t/2/compiled_assets/scripts.js?1207"></script>
+<style id="shopify-dynamic-checkout">.shopify-payment-button__button--hidden {
+  visibility: hidden;
+}
+
+.shopify-payment-button__button {
+  border-radius: 4px;
+  border: none;
+  box-shadow: 0 0 0 0 transparent;
+  color: white;
+  cursor: pointer;
+  display: block;
+  font-size: 1em;
+  font-weight: 500;
+  line-height: 1;
+  text-align: center;
+  width: 100%;
+  transition: background 0.2s ease-in-out;
+}
+
+.shopify-payment-button__button[disabled] {
+  opacity: 0.6;
+  cursor: default;
+}
+
+.shopify-payment-button__button--unbranded {
+  background-color: #1990c6;
+  padding: 1em 2em;
+}
+
+.shopify-payment-button__button--unbranded:hover:not([disabled]) {
+  background-color: #136f99;
+}
+
+.shopify-payment-button__more-options {
+  background: transparent;
+  border: 0 none;
+  cursor: pointer;
+  display: block;
+  font-size: 1em;
+  margin-top: 1em;
+  text-align: center;
+  width: 100%;
+}
+
+.shopify-payment-button__more-options:hover:not([disabled]) {
+  text-decoration: underline;
+}
+
+.shopify-payment-button__more-options[disabled] {
+  opacity: 0.6;
+  cursor: default;
+}
+
+.shopify-payment-button__button--branded {
+  display: flex;
+  flex-direction: column;
+  min-height: 44px;
+  position: relative;
+  z-index: 1;
+}
+
+.shopify-payment-button__button--branded .shopify-cleanslate {
+  flex: 1 !important;
+  display: flex !important;
+  flex-direction: column !important;
+}
+</style>
+<style id="shopify-dynamic-checkout-cart">@media screen and (min-width: 750px) {
+  #dynamic-checkout-cart {
+    min-height: 50px;
+  }
+}
+
+@media screen and (max-width: 750px) {
+  #dynamic-checkout-cart {
+    min-height: 120px;
+  }
+}
+</style><script>window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.end');</script>
+<script>window._usfTheme={
+    id:140699107596,
+    name:"Dawn",
+    version:"7.0.1",
+    vendor:"Shopify",
+    applied:1,
+    assetUrl:"//cdn.shopify.com/s/files/1/0689/8073/6268/t/2/assets/usf-boot.js?1207"
+};
+window._usfCustomerTags = null;
+window._usfCollectionId = null;
+window._usfCollectionDefaultSort = null;
+window._usfLocale = "fr";
+window._usfRootUrl = "\/";
+window.usf = {
+  settings: {"online":1,"version":"1.0.2.4112","storeId":"freakygeek-fr.myshopify.com","siteId":"2bf2c4ce-6b13-4097-82b8-92d125a0cdc4","resUrl":"//cdn.shopify.com/s/files/1/0257/0108/9360/t/85/assets/","analyticsApiUrl":"https://svc-4-analytics-usf.hotyon.com/set","searchSvcUrl":"https://svc-4-usf.hotyon.com/","enabledPlugins":["preview-usf"],"currency":"EUR","priceLongFormat":"€{0} EUR","priceFormat":"€{0}","showGotoTop":1,"mobileBreakpoint":767,"decimals":2,"decimalDisplay":",","thousandSeparator":".","plugins":{},"revision":49143192,"filters":{},"instantSearch":{"online":1,"searchBoxSelector":"input[name=q]","numOfSuggestions":6,"numOfProductMatches":6,"numOfCollections":4,"numOfPages":4},"search":{"online":1,"sortFields":["r","title","-title","date","-date","price","-price","-discount"],"searchResultsUrl":"/pages/search-results","more":"more","itemsPerPage":28,"imageSizeType":"fixed","imageSize":"600,350","showSearchInputOnSearchPage":1,"showAltImage":1,"showVendor":1,"showSale":1,"showSoldOut":1,"canChangeUrl":1},"collections":{"online":1,"collectionsPageUrl":"/pages/collections"},"filterNavigation":{"showFilterArea":1,"showSingle":1,"showProductCount":1},"translation_fr":{"search":"Search","latestSearches":"Latest searches","popularSearches":"Popular searches","viewAllResultsFor":"view all results for <span class=\"usf-highlight\">{0}</span>","viewAllResults":"view all results","noMatchesFoundFor":"No matches found for \"<b>{0}</b>\". Please try again with a different term.","productSearchResultWithTermSummary":"<b>{0}</b> results for '<b>{1}</b>'","productSearchResultSummary":"<b>{0}</b> products","productSearchNoResults":"<h2>No matching for '<b>{0}</b>'.</h2><p>But don't give up – check the filters, spelling or try less specific search terms.</p>","productSearchNoResultsEmptyTerm":"<h2>No results found.</h2><p>But don't give up – check the filters or try less specific terms.</p>","clearAll":"Clear all","clear":"Clear","clearAllFilters":"Clear all filters","clearFiltersBy":"Clear filters by {0}","filterBy":"Filter by {0}","sort":"Sort","sortBy_r":"Relevance","sortBy_title":"Title: A-Z","sortBy_-title":"Title: Z-A","sortBy_date":"Date: Old to New","sortBy_-date":"Date: New to Old","sortBy_price":"Price: Low to High","sortBy_-price":"Price: High to Low","sortBy_-discount":"Discount: High to Low","sortBy_bestselling":"Best selling","sortBy_-available":"Inventory: High to Low","filters":"Filters","filterOptions":"Filter options","clearFilterOptions":"Clear all filter options","youHaveViewed":"You've viewed {0} of {1} products","loadMore":"Load more","loadPrev":"Load previous","productMatches":"Product matches","trending":"Trending","didYouMean":"Sorry, nothing found for '<b>{0}</b>'.<br>Did you mean '<b>{1}</b>'?","searchSuggestions":"Search suggestions","quantity":"Quantity","selectedVariantNotAvailable":"The selected variant is not available.","addToCart":"Add to cart","seeFullDetails":"See full details","chooseOptions":"Choose options","quickView":"Quick view","sale":"Sale","save":"Save","soldOut":"Sold out","viewItems":"View items","more":"More","all":"All","prevPage":"Previous page","gotoPage":"Go to page {0}","nextPage":"Next page","from":"From","collections":"Collections","pages":"Pages","sortBy_option:Capacité":"Capacité: A-Z","sortBy_-option:Capacité":"Capacité: Z-A","sortBy_option:Couleur":"Couleur: A-Z","sortBy_-option:Couleur":"Couleur: Z-A","sortBy_option:Modèle":"Modèle: A-Z","sortBy_-option:Modèle":"Modèle: Z-A"}}
+}
+</script>
+<script src="//cdn.shopify.com/s/files/1/0689/8073/6268/t/2/assets/usf-boot.js?1207" async></script>
+
+
+    <style data-shopify>
+      @font-face {
+  font-family: Beefcakes;
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url("https://fonts.shopifycdn.com/beefcakes/beefcakes_n4.6f0af0c0bb47f358f9738babbdbd068098855dab.woff2?h1=ZnJlYWt5Z2Vlay1mci5hY2NvdW50Lm15c2hvcGlmeS5jb20&h2=ZnJlYWt5Z2Vlay5mcg&h3=YWNjb3VudC5mcmVha3lnZWVrLmZy&hmac=16fca127e39ec0fefd758b9fee4efed6cc31e3a5a7e8ceb91d7af1cb7c247eef") format("woff2"),
+       url("https://fonts.shopifycdn.com/beefcakes/beefcakes_n4.c24a473d81016e3037ebe9f7372b3ce5507f0175.woff?h1=ZnJlYWt5Z2Vlay1mci5hY2NvdW50Lm15c2hvcGlmeS5jb20&h2=ZnJlYWt5Z2Vlay5mcg&h3=YWNjb3VudC5mcmVha3lnZWVrLmZy&hmac=f8deefff5cc9ff0d347f21b2e4d88243638ad36f414556c5a60a455ca3406bff") format("woff");
+}
+
+      
+      @font-face {
+  font-family: Beefcakes;
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+  src: url("https://fonts.shopifycdn.com/beefcakes/beefcakes_i4.f4a5c7527edca116be8bc1f6e44b85e6612aaadb.woff2?h1=ZnJlYWt5Z2Vlay1mci5hY2NvdW50Lm15c2hvcGlmeS5jb20&h2=ZnJlYWt5Z2Vlay5mcg&h3=YWNjb3VudC5mcmVha3lnZWVrLmZy&hmac=88d5f314fad686427e17d62ba02d3e4486997966101ec86baf362739264aba18") format("woff2"),
+       url("https://fonts.shopifycdn.com/beefcakes/beefcakes_i4.0dd9f194032c4461f691aa975545d549e99bd7c0.woff?h1=ZnJlYWt5Z2Vlay1mci5hY2NvdW50Lm15c2hvcGlmeS5jb20&h2=ZnJlYWt5Z2Vlay5mcg&h3=YWNjb3VudC5mcmVha3lnZWVrLmZy&hmac=2641f59217d2b9765abcceb5e456717217c2e6dd18f163d4e6d5fe4911017a61") format("woff");
+}
+
+      
+      @font-face {
+  font-family: Assistant;
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url("https://fonts.shopifycdn.com/assistant/assistant_n4.bcd3d09dcb631dec5544b8fb7b154ff234a44630.woff2?h1=ZnJlYWt5Z2Vlay1mci5hY2NvdW50Lm15c2hvcGlmeS5jb20&h2=ZnJlYWt5Z2Vlay5mcg&h3=YWNjb3VudC5mcmVha3lnZWVrLmZy&hmac=3646917f6fe89accf3d0c1beba2d76efdb5909b0116d4a59e3d51ffaaee4acd2") format("woff2"),
+       url("https://fonts.shopifycdn.com/assistant/assistant_n4.a2d012304becc2a26f1ded1acc136fcab85c9afd.woff?h1=ZnJlYWt5Z2Vlay1mci5hY2NvdW50Lm15c2hvcGlmeS5jb20&h2=ZnJlYWt5Z2Vlay5mcg&h3=YWNjb3VudC5mcmVha3lnZWVrLmZy&hmac=5d327f4dde4c8d7e2a2d4543a85982f5415027a0c37ce9a2f4a878b5be037d5f") format("woff");
+}
+
+
+      :root {
+        --font-body-family: Beefcakes, sans-serif;
+        --font-body-style: normal;
+        --font-body-weight: 400;
+        --font-body-weight-bold: 700;
+
+        --font-heading-family: Assistant, sans-serif;
+        --font-heading-style: normal;
+        --font-heading-weight: 400;
+
+        --font-body-scale: 1.0;
+        --font-heading-scale: 1.0;
+
+        --color-base-text: 0, 0, 0;
+        --color-shadow: 0, 0, 0;
+        --color-base-background-1: 255, 255, 255;
+        --color-base-background-2: 243, 243, 243;
+        --color-base-solid-button-labels: 0, 0, 0;
+        --color-base-outline-button-labels: 94, 23, 235;
+        --color-base-accent-1: 94, 23, 235;
+        --color-base-accent-2: 51, 79, 180;
+        --payment-terms-background-color: #fff;
+
+        --gradient-base-background-1: #fff;
+        --gradient-base-background-2: #f3f3f3;
+        --gradient-base-accent-1: #5e17eb;
+        --gradient-base-accent-2: #334fb4;
+
+        --media-padding: px;
+        --media-border-opacity: 0.05;
+        --media-border-width: 2px;
+        --media-radius: 0px;
+        --media-shadow-opacity: 0.0;
+        --media-shadow-horizontal-offset: 0px;
+        --media-shadow-vertical-offset: 4px;
+        --media-shadow-blur-radius: 5px;
+        --media-shadow-visible: 0;
+
+        --page-width: 160rem;
+        --page-width-margin: 0rem;
+
+        --product-card-image-padding: 0.0rem;
+        --product-card-corner-radius: 2.0rem;
+        --product-card-text-alignment: left;
+        --product-card-border-width: 0.0rem;
+        --product-card-border-opacity: 0.1;
+        --product-card-shadow-opacity: 0.05;
+        --product-card-shadow-visible: 1;
+        --product-card-shadow-horizontal-offset: 0.0rem;
+        --product-card-shadow-vertical-offset: 0.4rem;
+        --product-card-shadow-blur-radius: 0.0rem;
+
+        --collection-card-image-padding: 0.0rem;
+        --collection-card-corner-radius: 0.0rem;
+        --collection-card-text-alignment: left;
+        --collection-card-border-width: 0.0rem;
+        --collection-card-border-opacity: 0.15;
+        --collection-card-shadow-opacity: 0.35;
+        --collection-card-shadow-visible: 1;
+        --collection-card-shadow-horizontal-offset: 0.0rem;
+        --collection-card-shadow-vertical-offset: 0.0rem;
+        --collection-card-shadow-blur-radius: 0.5rem;
+
+        --blog-card-image-padding: 0.0rem;
+        --blog-card-corner-radius: 0.0rem;
+        --blog-card-text-alignment: left;
+        --blog-card-border-width: 0.0rem;
+        --blog-card-border-opacity: 0.1;
+        --blog-card-shadow-opacity: 0.0;
+        --blog-card-shadow-visible: 0;
+        --blog-card-shadow-horizontal-offset: 0.0rem;
+        --blog-card-shadow-vertical-offset: 0.4rem;
+        --blog-card-shadow-blur-radius: 0.5rem;
+
+        --badge-corner-radius: 4.0rem;
+
+        --popup-border-width: 0px;
+        --popup-border-opacity: 0.05;
+        --popup-corner-radius: 20px;
+        --popup-shadow-opacity: 0.15;
+        --popup-shadow-horizontal-offset: 14px;
+        --popup-shadow-vertical-offset: 4px;
+        --popup-shadow-blur-radius: 10px;
+
+        --drawer-border-width: 2px;
+        --drawer-border-opacity: 0.1;
+        --drawer-shadow-opacity: 0.0;
+        --drawer-shadow-horizontal-offset: 0px;
+        --drawer-shadow-vertical-offset: 4px;
+        --drawer-shadow-blur-radius: 5px;
+
+        --spacing-sections-desktop: 0px;
+        --spacing-sections-mobile: 0px;
+
+        --grid-desktop-vertical-spacing: 4px;
+        --grid-desktop-horizontal-spacing: 4px;
+        --grid-mobile-vertical-spacing: 2px;
+        --grid-mobile-horizontal-spacing: 2px;
+
+        --text-boxes-border-opacity: 0.0;
+        --text-boxes-border-width: 25px;
+        --text-boxes-radius: 0px;
+        --text-boxes-shadow-opacity: 0.0;
+        --text-boxes-shadow-visible: 0;
+        --text-boxes-shadow-horizontal-offset: 0px;
+        --text-boxes-shadow-vertical-offset: 4px;
+        --text-boxes-shadow-blur-radius: 5px;
+
+        --buttons-radius: 40px;
+        --buttons-radius-outset: 42px;
+        --buttons-border-width: 2px;
+        --buttons-border-opacity: 0.2;
+        --buttons-shadow-opacity: 0.45;
+        --buttons-shadow-visible: 1;
+        --buttons-shadow-horizontal-offset: 4px;
+        --buttons-shadow-vertical-offset: 4px;
+        --buttons-shadow-blur-radius: 10px;
+        --buttons-border-offset: 0.3px;
+
+        --inputs-radius: 0px;
+        --inputs-border-width: 1px;
+        --inputs-border-opacity: 0.55;
+        --inputs-shadow-opacity: 0.0;
+        --inputs-shadow-horizontal-offset: 0px;
+        --inputs-margin-offset: 0px;
+        --inputs-shadow-vertical-offset: 4px;
+        --inputs-shadow-blur-radius: 5px;
+        --inputs-radius-outset: 0px;
+
+        --variant-pills-radius: 40px;
+        --variant-pills-border-width: 1px;
+        --variant-pills-border-opacity: 0.55;
+        --variant-pills-shadow-opacity: 0.0;
+        --variant-pills-shadow-horizontal-offset: 0px;
+        --variant-pills-shadow-vertical-offset: 4px;
+        --variant-pills-shadow-blur-radius: 5px;
+      }
+
+      *,
+      *::before,
+      *::after {
+        box-sizing: inherit;
+      }
+
+      html {
+        box-sizing: border-box;
+        font-size: calc(var(--font-body-scale) * 62.5%);
+        height: 100%;
+      }
+
+      body {
+        display: grid;
+        grid-template-rows: auto auto 1fr auto;
+        grid-template-columns: 100%;
+        min-height: 100%;
+        margin: 0;
+        font-size: 1.5rem;
+        letter-spacing: 0.06rem;
+        line-height: calc(1 + 0.8 / var(--font-body-scale));
+        font-family: var(--font-body-family);
+        font-style: var(--font-body-style);
+        font-weight: var(--font-body-weight);
+      }
+
+      @media screen and (min-width: 750px) {
+        body {
+          font-size: 1.6rem;
+        }
+      }
+    </style>
+
+    <link href="//cdn.shopify.com/s/files/1/0689/8073/6268/t/2/assets/base.css?v=64253305713815904761676208253" rel="stylesheet" type="text/css" media="all" />
+<link rel="preload" as="font" href="https://fonts.shopifycdn.com/beefcakes/beefcakes_n4.6f0af0c0bb47f358f9738babbdbd068098855dab.woff2?h1=ZnJlYWt5Z2Vlay1mci5hY2NvdW50Lm15c2hvcGlmeS5jb20&h2=ZnJlYWt5Z2Vlay5mcg&h3=YWNjb3VudC5mcmVha3lnZWVrLmZy&hmac=16fca127e39ec0fefd758b9fee4efed6cc31e3a5a7e8ceb91d7af1cb7c247eef" type="font/woff2" crossorigin><link rel="preload" as="font" href="https://fonts.shopifycdn.com/assistant/assistant_n4.bcd3d09dcb631dec5544b8fb7b154ff234a44630.woff2?h1=ZnJlYWt5Z2Vlay1mci5hY2NvdW50Lm15c2hvcGlmeS5jb20&h2=ZnJlYWt5Z2Vlay5mcg&h3=YWNjb3VudC5mcmVha3lnZWVrLmZy&hmac=3646917f6fe89accf3d0c1beba2d76efdb5909b0116d4a59e3d51ffaaee4acd2" type="font/woff2" crossorigin><link rel="stylesheet" href="//cdn.shopify.com/s/files/1/0689/8073/6268/t/2/assets/component-predictive-search.css?v=83512081251802922551675519462" media="print" onload="this.media='all'"><script>document.documentElement.className = document.documentElement.className.replace('no-js', 'js');
+    if (Shopify.designMode) {
+      document.documentElement.classList.add('shopify-design-mode');
+    }
+    </script>
+  <script src="//cdn.shopify.com/s/files/1/0689/8073/6268/t/2/assets/sq-config.min.js?v=123041200285625997431676155818"></script>
+
+<link href="//cdn.shopify.com/s/files/1/0689/8073/6268/t/2/assets/sq-common.min.css?1207" rel="stylesheet" type="text/css" media="all" />
+<link href="//cdn.shopify.com/s/files/1/0689/8073/6268/t/2/assets/sq-app.min.css?1207" rel="stylesheet" type="text/css" media="all" />
+<script src="//cdn.shopify.com/s/files/1/0689/8073/6268/t/2/assets/sq-tracker.min.js?1207" async></script>
+<script src="//cdn.shopify.com/s/files/1/0689/8073/6268/t/2/assets/sq-common.min.js?1207" async></script>
+<script src="//cdn.shopify.com/s/files/1/0689/8073/6268/t/2/assets/sq-app.min.js?1207" async></script>
+
+<script type="text/javascript" src="https://d354wf6w0s8ijx.cloudfront.net/js/sq-init.js?s=68980736268&v=ny7whc36fijsmgd4gscnktn7&shop=freakygeek-fr.myshopify.com" async></script>
+ 
+    <script>
+    window.bucksCC = window.bucksCC || {};
+    window.bucksCC.config = {}; window.bucksCC.reConvert = function () {};
+    "function"!=typeof Object.assign&&(Object.assign=function(n){if(null==n)throw new TypeError("Cannot convert undefined or null to object");for(var r=Object(n),t=1;t<arguments.length;t++){var e=arguments[t];if(null!=e)for(var o in e)e.hasOwnProperty(o)&&(r[o]=e[o])}return r});
+    Object.assign(window.bucksCC.config, {"active":false,"userCurrency":"IND","selectedCurrencies":["USD","EUR"],"autoSwitchCurrencyLocationBased":false,"showCurrencySymbol":false,"displayPosition":"Bottom Left","showInDesktop":true,"showInMobileDevice":true,"showOriginalPriceOnMouseHover":false,"cartNotificationStatus":false,"cartNotificationMessage":"This store process all orders in USD.","roundPriceStatus":false,"roundingDecimal":0.99,"integrateWithOtherApps":true,"themeType":"theme1","backgroundColor":"#fff","textColor":"#333","hoverColor":"#ccc"}, { money_format: "\u003cspan class=money\u003e€{{amount}}\u003c\/span\u003e", money_with_currency_format: "\u003cspan class=money\u003e€{{amount}} EUR\u003c\/span\u003e", userCurrency: "EUR" }); window.bucksCC.config.multiCurrencies = [];  window.bucksCC.config.multiCurrencies = "EUR".split(',') || ''; window.bucksCC.config.cartCurrency = "EUR" || '';
+    </script>
+            <style type='text/css'>
+  .baCountry{width:30px;height:20px;display:inline-block;vertical-align:middle;margin-right:6px;background-size:30px!important;border-radius:4px;background-repeat:no-repeat}
+  .baCountry-traditional .baCountry{background-image:url(https://cdn.shopify.com/s/files/1/0194/1736/6592/t/1/assets/ba-flags.png?=14261939516959647149);height:19px!important}
+  .baCountry-modern .baCountry{background-image:url(https://cdn.shopify.com/s/files/1/0194/1736/6592/t/1/assets/ba-flags.png?=14261939516959647149)}
+  .baCountry-NO-FLAG{background-position:0 0}.baCountry-AD{background-position:0 -20px}.baCountry-AED{background-position:0 -40px}.baCountry-AFN{background-position:0 -60px}.baCountry-AG{background-position:0 -80px}.baCountry-AI{background-position:0 -100px}.baCountry-ALL{background-position:0 -120px}.baCountry-AMD{background-position:0 -140px}.baCountry-AOA{background-position:0 -160px}.baCountry-ARS{background-position:0 -180px}.baCountry-AS{background-position:0 -200px}.baCountry-AT{background-position:0 -220px}.baCountry-AUD{background-position:0 -240px}.baCountry-AWG{background-position:0 -260px}.baCountry-AZN{background-position:0 -280px}.baCountry-BAM{background-position:0 -300px}.baCountry-BBD{background-position:0 -320px}.baCountry-BDT{background-position:0 -340px}.baCountry-BE{background-position:0 -360px}.baCountry-BF{background-position:0 -380px}.baCountry-BGN{background-position:0 -400px}.baCountry-BHD{background-position:0 -420px}.baCountry-BIF{background-position:0 -440px}.baCountry-BJ{background-position:0 -460px}.baCountry-BMD{background-position:0 -480px}.baCountry-BND{background-position:0 -500px}.baCountry-BOB{background-position:0 -520px}.baCountry-BRL{background-position:0 -540px}.baCountry-BSD{background-position:0 -560px}.baCountry-BTN{background-position:0 -580px}.baCountry-BWP{background-position:0 -600px}.baCountry-BYN{background-position:0 -620px}.baCountry-BZD{background-position:0 -640px}.baCountry-CAD{background-position:0 -660px}.baCountry-CC{background-position:0 -680px}.baCountry-CDF{background-position:0 -700px}.baCountry-CG{background-position:0 -720px}.baCountry-CHF{background-position:0 -740px}.baCountry-CI{background-position:0 -760px}.baCountry-CK{background-position:0 -780px}.baCountry-CLP{background-position:0 -800px}.baCountry-CM{background-position:0 -820px}.baCountry-CNY{background-position:0 -840px}.baCountry-COP{background-position:0 -860px}.baCountry-CRC{background-position:0 -880px}.baCountry-CU{background-position:0 -900px}.baCountry-CX{background-position:0 -920px}.baCountry-CY{background-position:0 -940px}.baCountry-CZK{background-position:0 -960px}.baCountry-DE{background-position:0 -980px}.baCountry-DJF{background-position:0 -1000px}.baCountry-DKK{background-position:0 -1020px}.baCountry-DM{background-position:0 -1040px}.baCountry-DOP{background-position:0 -1060px}.baCountry-DZD{background-position:0 -1080px}.baCountry-EC{background-position:0 -1100px}.baCountry-EE{background-position:0 -1120px}.baCountry-EGP{background-position:0 -1140px}.baCountry-ER{background-position:0 -1160px}.baCountry-ES{background-position:0 -1180px}.baCountry-ETB{background-position:0 -1200px}.baCountry-EUR{background-position:0 -1220px}.baCountry-FI{background-position:0 -1240px}.baCountry-FJD{background-position:0 -1260px}.baCountry-FKP{background-position:0 -1280px}.baCountry-FO{background-position:0 -1300px}.baCountry-FR{background-position:0 -1320px}.baCountry-GA{background-position:0 -1340px}.baCountry-GBP{background-position:0 -1360px}.baCountry-GD{background-position:0 -1380px}.baCountry-GEL{background-position:0 -1400px}.baCountry-GHS{background-position:0 -1420px}.baCountry-GIP{background-position:0 -1440px}.baCountry-GL{background-position:0 -1460px}.baCountry-GMD{background-position:0 -1480px}.baCountry-GNF{background-position:0 -1500px}.baCountry-GQ{background-position:0 -1520px}.baCountry-GR{background-position:0 -1540px}.baCountry-GTQ{background-position:0 -1560px}.baCountry-GU{background-position:0 -1580px}.baCountry-GW{background-position:0 -1600px}.baCountry-HKD{background-position:0 -1620px}.baCountry-HNL{background-position:0 -1640px}.baCountry-HRK{background-position:0 -1660px}.baCountry-HTG{background-position:0 -1680px}.baCountry-HUF{background-position:0 -1700px}.baCountry-IDR{background-position:0 -1720px}.baCountry-IE{background-position:0 -1740px}.baCountry-ILS{background-position:0 -1760px}.baCountry-INR{background-position:0 -1780px}.baCountry-IO{background-position:0 -1800px}.baCountry-IQD{background-position:0 -1820px}.baCountry-IRR{background-position:0 -1840px}.baCountry-ISK{background-position:0 -1860px}.baCountry-IT{background-position:0 -1880px}.baCountry-JMD{background-position:0 -1900px}.baCountry-JOD{background-position:0 -1920px}.baCountry-JPY{background-position:0 -1940px}.baCountry-KES{background-position:0 -1960px}.baCountry-KGS{background-position:0 -1980px}.baCountry-KHR{background-position:0 -2000px}.baCountry-KI{background-position:0 -2020px}.baCountry-KMF{background-position:0 -2040px}.baCountry-KN{background-position:0 -2060px}.baCountry-KP{background-position:0 -2080px}.baCountry-KRW{background-position:0 -2100px}.baCountry-KWD{background-position:0 -2120px}.baCountry-KYD{background-position:0 -2140px}.baCountry-KZT{background-position:0 -2160px}.baCountry-LBP{background-position:0 -2180px}.baCountry-LI{background-position:0 -2200px}.baCountry-LKR{background-position:0 -2220px}.baCountry-LRD{background-position:0 -2240px}.baCountry-LSL{background-position:0 -2260px}.baCountry-LT{background-position:0 -2280px}.baCountry-LU{background-position:0 -2300px}.baCountry-LV{background-position:0 -2320px}.baCountry-LYD{background-position:0 -2340px}.baCountry-MAD{background-position:0 -2360px}.baCountry-MC{background-position:0 -2380px}.baCountry-MDL{background-position:0 -2400px}.baCountry-ME{background-position:0 -2420px}.baCountry-MGA{background-position:0 -2440px}.baCountry-MKD{background-position:0 -2460px}.baCountry-ML{background-position:0 -2480px}.baCountry-MMK{background-position:0 -2500px}.baCountry-MN{background-position:0 -2520px}.baCountry-MOP{background-position:0 -2540px}.baCountry-MQ{background-position:0 -2560px}.baCountry-MR{background-position:0 -2580px}.baCountry-MS{background-position:0 -2600px}.baCountry-MT{background-position:0 -2620px}.baCountry-MUR{background-position:0 -2640px}.baCountry-MVR{background-position:0 -2660px}.baCountry-MWK{background-position:0 -2680px}.baCountry-MXN{background-position:0 -2700px}.baCountry-MYR{background-position:0 -2720px}.baCountry-MZN{background-position:0 -2740px}.baCountry-NAD{background-position:0 -2760px}.baCountry-NE{background-position:0 -2780px}.baCountry-NF{background-position:0 -2800px}.baCountry-NG{background-position:0 -2820px}.baCountry-NIO{background-position:0 -2840px}.baCountry-NL{background-position:0 -2860px}.baCountry-NOK{background-position:0 -2880px}.baCountry-NPR{background-position:0 -2900px}.baCountry-NR{background-position:0 -2920px}.baCountry-NU{background-position:0 -2940px}.baCountry-NZD{background-position:0 -2960px}.baCountry-OMR{background-position:0 -2980px}.baCountry-PAB{background-position:0 -3000px}.baCountry-PEN{background-position:0 -3020px}.baCountry-PGK{background-position:0 -3040px}.baCountry-PHP{background-position:0 -3060px}.baCountry-PKR{background-position:0 -3080px}.baCountry-PLN{background-position:0 -3100px}.baCountry-PR{background-position:0 -3120px}.baCountry-PS{background-position:0 -3140px}.baCountry-PT{background-position:0 -3160px}.baCountry-PW{background-position:0 -3180px}.baCountry-QAR{background-position:0 -3200px}.baCountry-RON{background-position:0 -3220px}.baCountry-RSD{background-position:0 -3240px}.baCountry-RUB{background-position:0 -3260px}.baCountry-RWF{background-position:0 -3280px}.baCountry-SAR{background-position:0 -3300px}.baCountry-SBD{background-position:0 -3320px}.baCountry-SCR{background-position:0 -3340px}.baCountry-SDG{background-position:0 -3360px}.baCountry-SEK{background-position:0 -3380px}.baCountry-SGD{background-position:0 -3400px}.baCountry-SI{background-position:0 -3420px}.baCountry-SK{background-position:0 -3440px}.baCountry-SLL{background-position:0 -3460px}.baCountry-SM{background-position:0 -3480px}.baCountry-SN{background-position:0 -3500px}.baCountry-SO{background-position:0 -3520px}.baCountry-SRD{background-position:0 -3540px}.baCountry-SSP{background-position:0 -3560px}.baCountry-STD{background-position:0 -3580px}.baCountry-SV{background-position:0 -3600px}.baCountry-SYP{background-position:0 -3620px}.baCountry-SZL{background-position:0 -3640px}.baCountry-TC{background-position:0 -3660px}.baCountry-TD{background-position:0 -3680px}.baCountry-TG{background-position:0 -3700px}.baCountry-THB{background-position:0 -3720px}.baCountry-TJS{background-position:0 -3740px}.baCountry-TK{background-position:0 -3760px}.baCountry-TMT{background-position:0 -3780px}.baCountry-TND{background-position:0 -3800px}.baCountry-TOP{background-position:0 -3820px}.baCountry-TRY{background-position:0 -3840px}.baCountry-TTD{background-position:0 -3860px}.baCountry-TWD{background-position:0 -3880px}.baCountry-TZS{background-position:0 -3900px}.baCountry-UAH{background-position:0 -3920px}.baCountry-UGX{background-position:0 -3940px}.baCountry-USD{background-position:0 -3960px}.baCountry-UYU{background-position:0 -3980px}.baCountry-UZS{background-position:0 -4000px}.baCountry-VEF{background-position:0 -4020px}.baCountry-VG{background-position:0 -4040px}.baCountry-VI{background-position:0 -4060px}.baCountry-VND{background-position:0 -4080px}.baCountry-VUV{background-position:0 -4100px}.baCountry-WST{background-position:0 -4120px}.baCountry-XAF{background-position:0 -4140px}.baCountry-XPF{background-position:0 -4160px}.baCountry-YER{background-position:0 -4180px}.baCountry-ZAR{background-position:0 -4200px}.baCountry-ZM{background-position:0 -4220px}.baCountry-ZW{background-position:0 -4240px}
+  .bacurr-checkoutNotice{margin: 3px 10px 0 10px;left: 0;right: 0;text-align: center;}
+  @media (min-width:750px) {.bacurr-checkoutNotice{position: absolute;}}
+</style>
+
+<script>
+    window.baCurr = window.baCurr || {};
+    window.baCurr.config = {}; window.baCurr.rePeat = function () {};
+    Object.assign(window.baCurr.config, {
+      "enabled":true,
+      "manual_placement":"",
+      "night_time":false,
+      "round_by_default":false,
+      "display_position":"bottom_left",
+      "display_position_type":"floating",
+      "custom_code":{"css":""},
+      "flag_type":"countryandmoney",
+      "flag_design":"modern",
+      "round_style":"none",
+      "round_dec":"",
+      "chosen_cur":[{"USD":"US Dollar (USD)"},{"EUR":"Euro (EUR)"},{"GBP":"British Pound (GBP)"},{"CAD":"Canadian Dollar (CAD)"},{"CHF":"Swiss Franc (CHF)"}],
+      "desktop_visible":true,
+      "mob_visible":true,
+      "money_mouse_show":false,
+      "textColor":"#000000",
+      "flag_theme":"default",
+      "selector_hover_hex":"",
+      "lightning":false,
+      "mob_manual_placement":"",
+      "mob_placement":"bottom_left",
+      "mob_placement_type":"floating",
+      "moneyWithCurrencyFormat":false,
+      "ui_style":"default",
+      "user_curr":"",
+      "auto_loc":true,
+      "auto_pref":false,
+      "selector_bg_hex":"#5e35b1",
+      "selector_border_type":"boxShadow",
+      "cart_alert_bg_hex":"",
+      "cart_alert_note":"",
+      "cart_alert_state":false,
+      "cart_alert_font_hex":""
+    },{
+      money_format: "\u003cspan class=money\u003e€{{amount}}\u003c\/span\u003e",
+      money_with_currency_format: "\u003cspan class=money\u003e€{{amount}} EUR\u003c\/span\u003e",
+      user_curr: "EUR"
+    });
+    window.baCurr.config.multi_curr = [];
+    
+    window.baCurr.config.final_currency = "EUR" || '';
+    window.baCurr.config.multi_curr = "EUR".split(',') || '';
+
+    (function(window, document) {"use strict";
+      function onload(){
+        function insertPopupMessageJs(){
+          var head = document.getElementsByTagName('head')[0];
+          var script = document.createElement('script');
+          script.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'currency.boosterapps.com/preview_curr.js';
+          script.type = 'text/javascript';
+          head.appendChild(script);
+        }
+
+        if(document.location.search.indexOf("preview_cur=1") > -1){
+          setTimeout(function(){
+            window.currency_preview_result = document.getElementById("baCurrSelector").length > 0 ? 'success' : 'error';
+            insertPopupMessageJs();
+          }, 1000);
+        }
+      }
+
+      var head = document.getElementsByTagName('head')[0];
+      var script = document.createElement('script');
+      script.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + "";
+      script.type = 'text/javascript';
+      script.onload = script.onreadystatechange = function() {
+      if (script.readyState) {
+        if (script.readyState === 'complete' || script.readyState === 'loaded') {
+          script.onreadystatechange = null;
+            onload();
+          }
+        }
+        else {
+          onload();
+        }
+      };
+      head.appendChild(script);
+
+    }(window, document));
+</script>
+
+<!-- BEGIN app block: shopify://apps/xo-insert-code/blocks/insert-code-header/72017b12-3679-442e-b23c-5c62460717f5 --><!-- XO-InsertCode Header -->
+
+
+
+<!-- End: XO-InsertCode Header -->
+
+
+<!-- END app app block --><link href="https://monorail-edge.shopifysvc.com" rel="dns-prefetch">
+<script>(function(){if ("sendBeacon" in navigator && "performance" in window) {var session_token = document.cookie.match(/_shopify_s=([^;]*)/);function handle_abandonment_event(e) {var entries = performance.getEntries().filter(function(entry) {return /monorail-edge.shopifysvc.com/.test(entry.name);});if (!window.abandonment_tracked && entries.length === 0) {window.abandonment_tracked = true;var currentMs = Date.now();var navigation_start = performance.timing.navigationStart;var payload = {shop_id: 68980736268,url: window.location.href,navigation_start,duration: currentMs - navigation_start,session_token: session_token && session_token.length === 2 ? session_token[1] : "",page_type: "product"};window.navigator.sendBeacon("https://monorail-edge.shopifysvc.com/v1/produce", JSON.stringify({schema_id: "online_store_buyer_site_abandonment/1.1",payload: payload,metadata: {event_created_at_ms: currentMs,event_sent_at_ms: currentMs}}));}}window.addEventListener('pagehide', handle_abandonment_event);}}());</script>
+<script>window.ShopifyAnalytics = window.ShopifyAnalytics || {};
+window.ShopifyAnalytics.meta = window.ShopifyAnalytics.meta || {};
+window.ShopifyAnalytics.meta.currency = 'EUR';
+var meta = {"product":{"id":8227454517516,"gid":"gid:\/\/shopify\/Product\/8227454517516","vendor":"AMD","type":"Processeur","variants":[{"id":44146758844684,"price":20599,"name":"AMD Ryzen 5 5600X","public_title":null,"sku":""}]},"page":{"pageType":"product","resourceType":"product","resourceId":8227454517516}};
+for (var attr in meta) {
+  window.ShopifyAnalytics.meta[attr] = meta[attr];
+}</script>
+<script>window.ShopifyAnalytics.merchantGoogleAnalytics = function() {
+  
+};
+</script>
+<script class="analytics">(function () {
+  var customDocumentWrite = function(content) {
+    var jquery = null;
+
+    if (window.jQuery) {
+      jquery = window.jQuery;
+    } else if (window.Checkout && window.Checkout.$) {
+      jquery = window.Checkout.$;
+    }
+
+    if (jquery) {
+      jquery('body').append(content);
+    }
+  };
+
+  var hasLoggedConversion = function(token) {
+    if (token) {
+      return document.cookie.indexOf('loggedConversion=' + token) !== -1;
+    }
+    return false;
+  }
+
+  var setCookieIfConversion = function(token) {
+    if (token) {
+      var twoMonthsFromNow = new Date(Date.now());
+      twoMonthsFromNow.setMonth(twoMonthsFromNow.getMonth() + 2);
+
+      document.cookie = 'loggedConversion=' + token + '; expires=' + twoMonthsFromNow;
+    }
+  }
+
+  var trekkie = window.ShopifyAnalytics.lib = window.trekkie = window.trekkie || [];
+  if (trekkie.integrations) {
+    return;
+  }
+  trekkie.methods = [
+    'identify',
+    'page',
+    'ready',
+    'track',
+    'trackForm',
+    'trackLink'
+  ];
+  trekkie.factory = function(method) {
+    return function() {
+      var args = Array.prototype.slice.call(arguments);
+      args.unshift(method);
+      trekkie.push(args);
+      return trekkie;
+    };
+  };
+  for (var i = 0; i < trekkie.methods.length; i++) {
+    var key = trekkie.methods[i];
+    trekkie[key] = trekkie.factory(key);
+  }
+  trekkie.load = function(config) {
+    trekkie.config = config || {};
+    trekkie.config.initialDocumentCookie = document.cookie;
+    var first = document.getElementsByTagName('script')[0];
+    var script = document.createElement('script');
+    script.type = 'text/javascript';
+    script.onerror = function(e) {
+      var scriptFallback = document.createElement('script');
+      scriptFallback.type = 'text/javascript';
+      scriptFallback.onerror = function(error) {
+              var Monorail = {
+      produce: function produce(monorailDomain, schemaId, payload) {
+        var currentMs = new Date().getTime();
+        var event = {
+          schema_id: schemaId,
+          payload: payload,
+          metadata: {
+            event_created_at_ms: currentMs,
+            event_sent_at_ms: currentMs
+          }
+        };
+        return Monorail.sendRequest("https://" + monorailDomain + "/v1/produce", JSON.stringify(event));
+      },
+      sendRequest: function sendRequest(endpointUrl, payload) {
+        // Try the sendBeacon API
+        if (window && window.navigator && typeof window.navigator.sendBeacon === 'function' && typeof window.Blob === 'function' && !Monorail.isIos12()) {
+          var blobData = new window.Blob([payload], {
+            type: 'text/plain'
+          });
+    
+          if (window.navigator.sendBeacon(endpointUrl, blobData)) {
+            return true;
+          } // sendBeacon was not successful
+    
+        } // XHR beacon   
+    
+        var xhr = new XMLHttpRequest();
+    
+        try {
+          xhr.open('POST', endpointUrl);
+          xhr.setRequestHeader('Content-Type', 'text/plain');
+          xhr.send(payload);
+        } catch (e) {
+          console.log(e);
+        }
+    
+        return false;
+      },
+      isIos12: function isIos12() {
+        return window.navigator.userAgent.lastIndexOf('iPhone; CPU iPhone OS 12_') !== -1 || window.navigator.userAgent.lastIndexOf('iPad; CPU OS 12_') !== -1;
+      }
+    };
+    Monorail.produce('monorail-edge.shopifysvc.com',
+      'trekkie_storefront_load_errors/1.1',
+      {shop_id: 68980736268,
+      theme_id: 140868616460,
+      app_name: "storefront",
+      context_url: window.location.href,
+      source_url: "https://cdn.shopify.com/s/trekkie.storefront.f23242e0bcba6b88e94c243310082bbb178ab50f.min.js"});
+
+      };
+      scriptFallback.async = true;
+      scriptFallback.src = 'https://cdn.shopify.com/s/trekkie.storefront.f23242e0bcba6b88e94c243310082bbb178ab50f.min.js';
+      first.parentNode.insertBefore(scriptFallback, first);
+    };
+    script.async = true;
+    script.src = 'https://cdn.shopify.com/s/trekkie.storefront.f23242e0bcba6b88e94c243310082bbb178ab50f.min.js';
+    first.parentNode.insertBefore(script, first);
+  };
+  trekkie.load(
+    {"Trekkie":{"appName":"storefront","development":false,"defaultAttributes":{"shopId":68980736268,"isMerchantRequest":true,"themeId":140868616460,"themeCityHash":"12881697129150476413","contentLanguage":"fr","currency":"EUR"},"isServerSideCookieWritingEnabled":true,"monorailRegion":"shop_domain"},"Session Attribution":{},"S2S":{"facebookCapiEnabled":false,"source":"trekkie-storefront-renderer"}}
+  );
+
+  var loaded = false;
+  trekkie.ready(function() {
+    if (loaded) return;
+    loaded = true;
+
+    window.ShopifyAnalytics.lib = window.trekkie;
+    
+
+    var originalDocumentWrite = document.write;
+    document.write = customDocumentWrite;
+    try { window.ShopifyAnalytics.merchantGoogleAnalytics.call(this); } catch(error) {};
+    document.write = originalDocumentWrite;
+
+    window.ShopifyAnalytics.lib.page(null,{"pageType":"product","resourceType":"product","resourceId":8227454517516});
+
+    var match = window.location.pathname.match(/checkouts\/(.+)\/(thank_you|post_purchase)/)
+    var token = match? match[1]: undefined;
+    if (!hasLoggedConversion(token)) {
+      setCookieIfConversion(token);
+      window.ShopifyAnalytics.lib.track("Viewed Product",{"currency":"EUR","variantId":44146758844684,"productId":8227454517516,"productGid":"gid:\/\/shopify\/Product\/8227454517516","name":"AMD Ryzen 5 5600X","price":"205.99","sku":"","brand":"AMD","variant":null,"category":"Processeur","nonInteraction":true});
+      window.ShopifyAnalytics.lib.track("monorail:\/\/trekkie_storefront_viewed_product\/1.1",{"currency":"EUR","variantId":44146758844684,"productId":8227454517516,"productGid":"gid:\/\/shopify\/Product\/8227454517516","name":"AMD Ryzen 5 5600X","price":"205.99","sku":"","brand":"AMD","variant":null,"category":"Processeur","nonInteraction":true,"referer":"https:\/\/www.freakygeek.fr\/products\/amd-ryzen-5-5600x"});
+    }
+  });
+
+  
+      var eventsListenerScript = document.createElement('script');
+      eventsListenerScript.async = true;
+      eventsListenerScript.src = "//cdn.shopify.com/shopifycloud/shopify/assets/shop_events_listener-65cd0ba3fcd81a1df33f2510ec5bcf8c0e0958653b50e3965ec972dd638ee13f.js";
+      document.getElementsByTagName('head')[0].appendChild(eventsListenerScript);
+    
+})();</script>
+<script class="boomerang">
+(function () {
+  if (window.BOOMR && (window.BOOMR.version || window.BOOMR.snippetExecuted)) {
+    return;
+  }
+  window.BOOMR = window.BOOMR || {};
+  window.BOOMR.snippetStart = new Date().getTime();
+  window.BOOMR.snippetExecuted = true;
+  window.BOOMR.snippetVersion = 12;
+  window.BOOMR.application = "storefront-renderer";
+  window.BOOMR.themeName = "Dawn";
+  window.BOOMR.themeVersion = "7.0.1";
+  window.BOOMR.shopId = 68980736268;
+  window.BOOMR.themeId = 140868616460;
+  window.BOOMR.renderRegion = "gcp-europe-west4";
+  window.BOOMR.url =
+    "https://cdn.shopify.com/shopifycloud/boomerang/shopify-boomerang-1.0.0.min.js";
+  var where = document.currentScript || document.getElementsByTagName("script")[0];
+  var parentNode = where.parentNode;
+  var promoted = false;
+  var LOADER_TIMEOUT = 3000;
+  function promote() {
+    if (promoted) {
+      return;
+    }
+    var script = document.createElement("script");
+    script.id = "boomr-scr-as";
+    script.src = window.BOOMR.url;
+    script.async = true;
+    parentNode.appendChild(script);
+    promoted = true;
+  }
+  function iframeLoader(wasFallback) {
+    promoted = true;
+    var dom, bootstrap, iframe, iframeStyle;
+    var doc = document;
+    var win = window;
+    window.BOOMR.snippetMethod = wasFallback ? "if" : "i";
+    bootstrap = function(parent, scriptId) {
+      var script = doc.createElement("script");
+      script.id = scriptId || "boomr-if-as";
+      script.src = window.BOOMR.url;
+      BOOMR_lstart = new Date().getTime();
+      parent = parent || doc.body;
+      parent.appendChild(script);
+    };
+    if (!window.addEventListener && window.attachEvent && navigator.userAgent.match(/MSIE [67]./)) {
+      window.BOOMR.snippetMethod = "s";
+      bootstrap(parentNode, "boomr-async");
+      return;
+    }
+    iframe = document.createElement("IFRAME");
+    iframe.src = "about:blank";
+    iframe.title = "";
+    iframe.role = "presentation";
+    iframe.loading = "eager";
+    iframeStyle = (iframe.frameElement || iframe).style;
+    iframeStyle.width = 0;
+    iframeStyle.height = 0;
+    iframeStyle.border = 0;
+    iframeStyle.display = "none";
+    parentNode.appendChild(iframe);
+    try {
+      win = iframe.contentWindow;
+      doc = win.document.open();
+    } catch (e) {
+      dom = document.domain;
+      iframe.src = "javascript:var d=document.open();d.domain='" + dom + "';void(0);";
+      win = iframe.contentWindow;
+      doc = win.document.open();
+    }
+    if (dom) {
+      doc._boomrl = function() {
+        this.domain = dom;
+        bootstrap();
+      };
+      doc.write("<body onload='document._boomrl();'>");
+    } else {
+      win._boomrl = function() {
+        bootstrap();
+      };
+      if (win.addEventListener) {
+        win.addEventListener("load", win._boomrl, false);
+      } else if (win.attachEvent) {
+        win.attachEvent("onload", win._boomrl);
+      }
+    }
+    doc.close();
+  }
+  var link = document.createElement("link");
+  if (link.relList &&
+    typeof link.relList.supports === "function" &&
+    link.relList.supports("preload") &&
+    ("as" in link)) {
+    window.BOOMR.snippetMethod = "p";
+    link.href = window.BOOMR.url;
+    link.rel = "preload";
+    link.as = "script";
+    link.addEventListener("load", promote);
+    link.addEventListener("error", function() {
+      iframeLoader(true);
+    });
+    setTimeout(function() {
+      if (!promoted) {
+        iframeLoader(true);
+      }
+    }, LOADER_TIMEOUT);
+    BOOMR_lstart = new Date().getTime();
+    parentNode.appendChild(link);
+  } else {
+    iframeLoader(false);
+  }
+  function boomerangSaveLoadTime(e) {
+    window.BOOMR_onload = (e && e.timeStamp) || new Date().getTime();
+  }
+  if (window.addEventListener) {
+    window.addEventListener("load", boomerangSaveLoadTime, false);
+  } else if (window.attachEvent) {
+    window.attachEvent("onload", boomerangSaveLoadTime);
+  }
+  if (document.addEventListener) {
+    document.addEventListener("onBoomerangLoaded", function(e) {
+      e.detail.BOOMR.init({
+        ResourceTiming: {
+          enabled: true,
+          trackedResourceTypes: ["script", "img", "css"]
+        },
+      });
+      e.detail.BOOMR.t_end = new Date().getTime();
+    });
+  } else if (document.attachEvent) {
+    document.attachEvent("onpropertychange", function(e) {
+      if (!e) e=event;
+      if (e.propertyName === "onBoomerangLoaded") {
+        e.detail.BOOMR.init({
+          ResourceTiming: {
+            enabled: true,
+            trackedResourceTypes: ["script", "img", "css"]
+          },
+        });
+        e.detail.BOOMR.t_end = new Date().getTime();
+      }
+    });
+  }
+})();</script>
+<script id="web-pixels-manager-setup">(function e(e,n,a,o,t){e&&(window.Shopify=window.Shopify||{},window.Shopify.analytics=window.Shopify.analytics||{},window.Shopify.analytics.replayQueue=[],window.Shopify.analytics.publish=function(e,n,a){window.Shopify.analytics.replayQueue.push([e,n,a])});var r,i,s,l,d,c,p,u,f=a+"/"+o+"."+function(){var e="legacy",n="unknown",a=null,o=navigator.userAgent.match(/(Firefox|Chrome)\/(\d+)/i),t=navigator.userAgent.match(/(Edg)\/(\d+)/i),r=navigator.userAgent.match(/(Version)\/(\d+)(.+)(Safari)\/(\d+)/i);r?(n="safari",a=parseInt(r[2],10)):t?(n="edge",a=parseInt(t[2],10)):o&&(n=o[1].toLocaleLowerCase(),a=parseInt(o[2],10));var i={chrome:60,firefox:55,safari:11,edge:80}[n];return void 0!==i&&null!==a&&i<=a&&(e="modern"),e}()+".js";r={src:f,async:!0,onload:function(){if(e){var a=window.webPixelsManager.init(e);n(a),window.Shopify.analytics.replayQueue.forEach((function(e){a.publishCustomEvent(e[0],e[1],e[2])})),window.Shopify.analytics.replayQueue=[],window.Shopify.analytics.publish=a.publishCustomEvent}},onerror:function(){var n=(e.storefrontBaseUrl?e.storefrontBaseUrl.replace(/\/$/,""):self.location.origin)+"/.well-known/shopify/monorail/unstable/produce_batch",a=JSON.stringify({metadata:{event_sent_at_ms:(new Date).getTime()},events:[{schema_id:"web_pixels_manager_load/2.0",payload:{version:t||"latest",page_url:self.location.href,status:"failed",error_msg:f+" has failed to load"},metadata:{event_created_at_ms:(new Date).getTime()}}]});try{if(self.navigator.sendBeacon.bind(self.navigator)(n,a))return!0}catch(e){}const o=new XMLHttpRequest;try{return o.open("POST",n,!0),o.setRequestHeader("Content-Type","text/plain"),o.send(a),!0}catch(e){console&&console.warn&&console.warn("[Web Pixels Manager] Got an unhandled error while logging a load error.")}return!1}},i=document.createElement("script"),s=r.src,l=r.async||!0,d=r.onload,c=r.onerror,p=document.head,u=document.body,i.async=l,i.src=s,d&&i.addEventListener("load",d),c&&i.addEventListener("error",c),p?p.appendChild(i):u?u.appendChild(i):console.error("Did not find a head or body element to append the script")})({shopId: 68980736268,storefrontBaseUrl: "https://www.freakygeek.fr",cdnBaseUrl: "https://cdn.shopify.com",surface: "storefront-renderer",enabledBetaFlags: ["web_pixels_use_shop_domain_monorail_endpoint","web_pixels_shopify_pixel_validation"],webPixelExtensionBaseUrl: "https://cdn.shopify.com",webPixelsConfigList: [{"id":"shopify-app-pixel","configuration":"{}","eventPayloadVersion":"v1","runtimeContext":"STRICT","scriptVersion":"056","apiClientId":"shopify-pixel","type":"APP"},{"id":"shopify-custom-pixel","eventPayloadVersion":"v1","runtimeContext":"LAX","scriptVersion":"056","apiClientId":"shopify-pixel","type":"CUSTOM"}],initData: {"cart":null,"checkout":null,"customer":null,"productVariants":[{"id":"44146758844684","image":{"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/0689\/8073\/6268\/products\/1edit_c1422a8c-c59d-448c-9ab0-d5ab2e75cb7f.png?v=1676214389"},"price":{"amount":205.99,"currencyCode":"EUR"},"product":{"id":"8227454517516","title":"AMD Ryzen 5 5600X","vendor":"AMD"},"sku":"","title":"Default Title"}]},},function pageEvents(webPixelsManagerAPI) {webPixelsManagerAPI.publish("page_viewed");webPixelsManagerAPI.publish("product_viewed", {"productVariant":{"id":"44146758844684","image":{"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/0689\/8073\/6268\/products\/1edit_c1422a8c-c59d-448c-9ab0-d5ab2e75cb7f.png?v=1676214389"},"price":{"amount":205.99,"currencyCode":"EUR"},"product":{"id":"8227454517516","title":"AMD Ryzen 5 5600X","vendor":"AMD"},"sku":"","title":"Default Title"}});},"https://cdn.shopify.com/shopifycloud/web-pixels-manager/0.0.219","browser","0.0.219");</script></head>
+
+  <body class="gradient">
+    <a class="skip-to-content-link button visually-hidden" href="#MainContent">
+      Ignorer et passer au contenu
+    </a><div id="shopify-section-announcement-bar" class="shopify-section">
+</div>
+    <div id="shopify-section-header" class="shopify-section section-header"><!DOCTYPE html>
+<html>
+
+<body>
+ <style style="text/css">
+  .bounce {
+  font-family: 'primeira-nova', sans-serif;
+  font-weight: 13px;
+  height: 45px;          /*ALTURA DA SEÇÃO */
+  overflow: hidden;
+  position: relative;
+  background: #000;   /*COR DE FUNDO DA BARRA */
+  border:solid 2px;      /*LARGURA DA BORDA */
+  border-color: #000; /*COR DA BORDA */
+  }
+  
+  .bounce p {
+  position: absolute;
+  width: 150%;
+  height: 100%;
+  margin: 0;
+  line-height: 40px;
+  text-align: center;
+  -moz-transform: translateX(50%);
+  -webkit-transform: translateX(50%);
+  transform: translateX(50%);
+  -moz-animation: bouncing-text 1s linear infinite alternate;
+  -webkit-animation: bouncing-text 1s linear infinite alternate;
+  animation: bouncing-text 10s linear infinite ;  /*TEMPO DA ANIMAÇÃO 30 SEGUNDOS */
+  padding-top: 1px;
+  padding-bottom: 1px;
+
+  }
+ 
+  
+  @-moz-keyframes bouncing-text {
+  0% {
+   -moz-transform: translateX(60%);
+  }
+  100% {
+   -moz-transform: translateX(-60%);
+  }
+  }
+  
+  @-webkit-keyframes bouncing-text {
+  0% {
+   -webkit-transform: translateX(60%);
+  }
+  100% {
+   -webkit-transform: translateX(-60%);
+  }
+  }
+  
+  @keyframes bouncing-text {
+  0% {
+   -moz-transform: translateX(60%);
+   -webkit-transform: translateX(60%);
+   transform: translateX(60%);
+  }
+  100% {
+   -moz-transform: translateX(-60%);
+   -webkit-transform: translateX(-60%);
+   transform: translateX(-60%);
+  }
+  }
+ </style>
+
+<div class="bounce">
+ <p><p align="justify" style = "color: #FFF"><b> FREAKYGEEK TOUT DONT UN GEEK A BESOIN!  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</b></p></div>
+<div id="shopify-block-5846654113244447633" class="shopify-block shopify-app-block">
+
+<link href="https://cdn.shopify.com/extensions/69524eb4-73c8-41af-ab4d-600e0b82959f/1.6.0/assets/xo-scroll2top.css" rel="stylesheet" type="text/css" media="all" />
+<div id="xo-scroll2top"
+class="xo-scroll2top xo-scroll2top--1 xo-scroll2top--right
+     xo-scroll2top--fade "
+style="--xo-st-bg-color:rgba(255,255,255,1);--xo-st-bg-color2:rgba(255,255,255,1); --xo-st-bd-radius:40px;--xo-st-bd-radius2:40px;--xo-st-width:62px;--xo-st-height:62px;--xo-st-scale: 1;
+    --xo-st-textColor: rgba(0,0,0,1);--xo-st-textColor2: rgba(35,123,226,1);right: 25px;bottom: 127px;"><svg className="xo-small" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
+        <path fill=#5e17eb d="M18.221,7.206l9.585,9.585c0.879,0.879,0.879,2.317,0,3.195l-0.8,0.801c-0.877,0.878-2.316,0.878-3.194,0  l-7.315-7.315l-7.315,7.315c-0.878,0.878-2.317,0.878-3.194,0l-0.8-0.801c-0.879-0.878-0.879-2.316,0-3.195l9.587-9.585  c0.471-0.472,1.103-0.682,1.723-0.647C17.115,6.524,17.748,6.734,18.221,7.206z" />
+    </svg></div>
+
+<style></style>
+<script type="text/javascript">
+const xoscroll2topInit = {
+      id: 'xo-scroll2top', duration: 600,
+      appear: -1,
+      toElement: {elm: '', offset: 0},
+      status: false  };
+</script>
+<script src="https://cdn.shopify.com/extensions/69524eb4-73c8-41af-ab4d-600e0b82959f/1.6.0/assets/xo-scroll2top.js" defer="defer"></script>
+
+
+</div><div id="shopify-block-10148494829067693542" class="shopify-block shopify-app-block"><!-- XO-InsertCode Body -->
+
+
+
+<!-- End: XO-InsertCode Body -->
+
+
+</div><div id="shopify-block-6143736321357441667" class="shopify-block shopify-app-block">
+
+<script src="//code.tidio.co/wbrcqebeuyjvnlfuxzxstakm15mmxpz3.js?extensionVersion=1.1.0" async></script>
+</div></body>
+
+<link rel="stylesheet" href="//cdn.shopify.com/s/files/1/0689/8073/6268/t/2/assets/component-list-menu.css?v=151968516119678728991675519462" media="print" onload="this.media='all'">
+<link rel="stylesheet" href="//cdn.shopify.com/s/files/1/0689/8073/6268/t/2/assets/component-search.css?v=82497525982771640061676208766" media="print" onload="this.media='all'">
+<link rel="stylesheet" href="//cdn.shopify.com/s/files/1/0689/8073/6268/t/2/assets/component-menu-drawer.css?v=182311192829367774911675519462" media="print" onload="this.media='all'">
+<link rel="stylesheet" href="//cdn.shopify.com/s/files/1/0689/8073/6268/t/2/assets/component-cart-notification.css?v=183358051719344305851675519462" media="print" onload="this.media='all'">
+<link rel="stylesheet" href="//cdn.shopify.com/s/files/1/0689/8073/6268/t/2/assets/component-cart-items.css?v=23917223812499722491675519462" media="print" onload="this.media='all'"><link rel="stylesheet" href="//cdn.shopify.com/s/files/1/0689/8073/6268/t/2/assets/component-price.css?v=65402837579211014041675519462" media="print" onload="this.media='all'">
+  <link rel="stylesheet" href="//cdn.shopify.com/s/files/1/0689/8073/6268/t/2/assets/component-loading-overlay.css?v=167310470843593579841675519462" media="print" onload="this.media='all'"><noscript><link href="//cdn.shopify.com/s/files/1/0689/8073/6268/t/2/assets/component-list-menu.css?v=151968516119678728991675519462" rel="stylesheet" type="text/css" media="all" /></noscript>
+<noscript><link href="//cdn.shopify.com/s/files/1/0689/8073/6268/t/2/assets/component-search.css?v=82497525982771640061676208766" rel="stylesheet" type="text/css" media="all" /></noscript>
+<noscript><link href="//cdn.shopify.com/s/files/1/0689/8073/6268/t/2/assets/component-menu-drawer.css?v=182311192829367774911675519462" rel="stylesheet" type="text/css" media="all" /></noscript>
+<noscript><link href="//cdn.shopify.com/s/files/1/0689/8073/6268/t/2/assets/component-cart-notification.css?v=183358051719344305851675519462" rel="stylesheet" type="text/css" media="all" /></noscript>
+<noscript><link href="//cdn.shopify.com/s/files/1/0689/8073/6268/t/2/assets/component-cart-items.css?v=23917223812499722491675519462" rel="stylesheet" type="text/css" media="all" /></noscript>
+
+<style>
+  header-drawer {
+    justify-self: start;
+    margin-left: -1.2rem;
+  }
+
+  .header__heading-logo {
+    max-width: 140px;
+  }
+
+  @media screen and (min-width: 990px) {
+    header-drawer {
+      display: none;
+    }
+  }
+
+  .menu-drawer-container {
+    display: flex;
+  }
+
+  .list-menu {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+
+  .list-menu--inline {
+    display: inline-flex;
+    flex-wrap: wrap;
+  }
+
+  summary.list-menu__item {
+    padding-right: 2.7rem;
+  }
+
+  .list-menu__item {
+    display: flex;
+    align-items: center;
+    line-height: calc(1 + 0.3 / var(--font-body-scale));
+  }
+
+  .list-menu__item--link {
+    text-decoration: none;
+    padding-bottom: 1rem;
+    padding-top: 1rem;
+    line-height: calc(1 + 0.8 / var(--font-body-scale));
+  }
+
+  @media screen and (min-width: 750px) {
+    .list-menu__item--link {
+      padding-bottom: 0.5rem;
+      padding-top: 0.5rem;
+    }
+  }
+</style><style data-shopify>.header {
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+
+  .section-header {
+    margin-bottom: 0px;
+  }
+
+  @media screen and (min-width: 750px) {
+    .section-header {
+      margin-bottom: 0px;
+    }
+  }
+
+  @media screen and (min-width: 990px) {
+    .header {
+      padding-top: 20px;
+      padding-bottom: 20px;
+    }
+  }</style><script src="//cdn.shopify.com/s/files/1/0689/8073/6268/t/2/assets/details-disclosure.js?v=153497636716254413831675519462" defer="defer"></script>
+<script src="//cdn.shopify.com/s/files/1/0689/8073/6268/t/2/assets/details-modal.js?v=4511761896672669691675519462" defer="defer"></script>
+<script src="//cdn.shopify.com/s/files/1/0689/8073/6268/t/2/assets/cart-notification.js?v=160453272920806432391675519462" defer="defer"></script><svg xmlns="http://www.w3.org/2000/svg" class="hidden">
+  <symbol id="icon-search" viewbox="0 0 18 19" fill="none">
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M11.03 11.68A5.784 5.784 0 112.85 3.5a5.784 5.784 0 018.18 8.18zm.26 1.12a6.78 6.78 0 11.72-.7l5.4 5.4a.5.5 0 11-.71.7l-5.41-5.4z" fill="currentColor"/>
+  </symbol>
+
+  <symbol id="icon-close" class="icon icon-close" fill="none" viewBox="0 0 18 17">
+    <path d="M.865 15.978a.5.5 0 00.707.707l7.433-7.431 7.579 7.282a.501.501 0 00.846-.37.5.5 0 00-.153-.351L9.712 8.546l7.417-7.416a.5.5 0 10-.707-.708L8.991 7.853 1.413.573a.5.5 0 10-.693.72l7.563 7.268-7.418 7.417z" fill="currentColor">
+  </symbol>
+</svg>
+<sticky-header class="header-wrapper color-accent-1 gradient header-wrapper--border-bottom">
+  <header class="header header--middle-center header--mobile-center page-width header--has-menu"><header-drawer data-breakpoint="tablet">
+        <details id="Details-menu-drawer-container" class="menu-drawer-container">
+          <summary class="header__icon header__icon--menu header__icon--summary link focus-inset" aria-label="Menu">
+            <span>
+              <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" role="presentation" class="icon icon-hamburger" fill="none" viewBox="0 0 18 16">
+  <path d="M1 .5a.5.5 0 100 1h15.71a.5.5 0 000-1H1zM.5 8a.5.5 0 01.5-.5h15.71a.5.5 0 010 1H1A.5.5 0 01.5 8zm0 7a.5.5 0 01.5-.5h15.71a.5.5 0 010 1H1a.5.5 0 01-.5-.5z" fill="currentColor">
+</svg>
+
+              <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" role="presentation" class="icon icon-close" fill="none" viewBox="0 0 18 17">
+  <path d="M.865 15.978a.5.5 0 00.707.707l7.433-7.431 7.579 7.282a.501.501 0 00.846-.37.5.5 0 00-.153-.351L9.712 8.546l7.417-7.416a.5.5 0 10-.707-.708L8.991 7.853 1.413.573a.5.5 0 10-.693.72l7.563 7.268-7.418 7.417z" fill="currentColor">
+</svg>
+
+            </span>
+          </summary>
+          <div id="menu-drawer" class="gradient menu-drawer motion-reduce" tabindex="-1">
+            <div class="menu-drawer__inner-container">
+              <div class="menu-drawer__navigation-container">
+                <nav class="menu-drawer__navigation">
+                  <ul class="menu-drawer__menu has-submenu list-menu" role="list"><li><details id="Details-menu-drawer-menu-item-1">
+                            <summary class="menu-drawer__menu-item list-menu__item link link--text focus-inset">
+                              Catégories
+                              <svg viewBox="0 0 14 10" fill="none" aria-hidden="true" focusable="false" role="presentation" class="icon icon-arrow" xmlns="http://www.w3.org/2000/svg">
+  <path fill-rule="evenodd" clip-rule="evenodd" d="M8.537.808a.5.5 0 01.817-.162l4 4a.5.5 0 010 .708l-4 4a.5.5 0 11-.708-.708L11.793 5.5H1a.5.5 0 010-1h10.793L8.646 1.354a.5.5 0 01-.109-.546z" fill="currentColor">
+</svg>
+
+                              <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-caret" viewBox="0 0 10 6">
+  <path fill-rule="evenodd" clip-rule="evenodd" d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z" fill="currentColor">
+</svg>
+
+                            </summary>
+                            <div id="link-categories" class="menu-drawer__submenu has-submenu gradient motion-reduce" tabindex="-1">
+                              <div class="menu-drawer__inner-submenu">
+                                <button class="menu-drawer__close-button link link--text focus-inset" aria-expanded="true">
+                                  <svg viewBox="0 0 14 10" fill="none" aria-hidden="true" focusable="false" role="presentation" class="icon icon-arrow" xmlns="http://www.w3.org/2000/svg">
+  <path fill-rule="evenodd" clip-rule="evenodd" d="M8.537.808a.5.5 0 01.817-.162l4 4a.5.5 0 010 .708l-4 4a.5.5 0 11-.708-.708L11.793 5.5H1a.5.5 0 010-1h10.793L8.646 1.354a.5.5 0 01-.109-.546z" fill="currentColor">
+</svg>
+
+                                  Catégories
+                                </button>
+                                <ul class="menu-drawer__menu list-menu" role="list" tabindex="-1"><li><a href="/collections/nos-promo" class="menu-drawer__menu-item link link--text list-menu__item focus-inset">
+                                          Nos Promo
+                                        </a></li><li><a href="/collections/nouveautes" class="menu-drawer__menu-item link link--text list-menu__item focus-inset">
+                                          Nouveautés
+                                        </a></li><li><details id="Details-menu-drawer-submenu-3">
+                                          <summary class="menu-drawer__menu-item link link--text list-menu__item focus-inset">
+                                            Informatique
+                                            <svg viewBox="0 0 14 10" fill="none" aria-hidden="true" focusable="false" role="presentation" class="icon icon-arrow" xmlns="http://www.w3.org/2000/svg">
+  <path fill-rule="evenodd" clip-rule="evenodd" d="M8.537.808a.5.5 0 01.817-.162l4 4a.5.5 0 010 .708l-4 4a.5.5 0 11-.708-.708L11.793 5.5H1a.5.5 0 010-1h10.793L8.646 1.354a.5.5 0 01-.109-.546z" fill="currentColor">
+</svg>
+
+                                            <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-caret" viewBox="0 0 10 6">
+  <path fill-rule="evenodd" clip-rule="evenodd" d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z" fill="currentColor">
+</svg>
+
+                                          </summary>
+                                          <div id="childlink-informatique" class="menu-drawer__submenu has-submenu gradient motion-reduce">
+                                            <button class="menu-drawer__close-button link link--text focus-inset" aria-expanded="true">
+                                              <svg viewBox="0 0 14 10" fill="none" aria-hidden="true" focusable="false" role="presentation" class="icon icon-arrow" xmlns="http://www.w3.org/2000/svg">
+  <path fill-rule="evenodd" clip-rule="evenodd" d="M8.537.808a.5.5 0 01.817-.162l4 4a.5.5 0 010 .708l-4 4a.5.5 0 11-.708-.708L11.793 5.5H1a.5.5 0 010-1h10.793L8.646 1.354a.5.5 0 01-.109-.546z" fill="currentColor">
+</svg>
+
+                                              Informatique
+                                            </button>
+                                            <ul class="menu-drawer__menu list-menu" role="list" tabindex="-1"><li>
+                                                  <a href="/collections/alimentation" class="menu-drawer__menu-item link link--text list-menu__item focus-inset">
+                                                    Alimentation
+                                                  </a>
+                                                </li><li>
+                                                  <a href="/collections/carte-meres" class="menu-drawer__menu-item link link--text list-menu__item focus-inset">
+                                                    Carte mères
+                                                  </a>
+                                                </li><li>
+                                                  <a href="/collections/processeurs" class="menu-drawer__menu-item link link--text list-menu__item focus-inset">
+                                                    Processeur
+                                                  </a>
+                                                </li><li>
+                                                  <a href="/collections/ssd-interne" class="menu-drawer__menu-item link link--text list-menu__item focus-inset">
+                                                    SSD Interne
+                                                  </a>
+                                                </li></ul>
+                                          </div>
+                                        </details></li><li><details id="Details-menu-drawer-submenu-4">
+                                          <summary class="menu-drawer__menu-item link link--text list-menu__item focus-inset">
+                                            Ordinateurs &amp; Portables
+                                            <svg viewBox="0 0 14 10" fill="none" aria-hidden="true" focusable="false" role="presentation" class="icon icon-arrow" xmlns="http://www.w3.org/2000/svg">
+  <path fill-rule="evenodd" clip-rule="evenodd" d="M8.537.808a.5.5 0 01.817-.162l4 4a.5.5 0 010 .708l-4 4a.5.5 0 11-.708-.708L11.793 5.5H1a.5.5 0 010-1h10.793L8.646 1.354a.5.5 0 01-.109-.546z" fill="currentColor">
+</svg>
+
+                                            <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-caret" viewBox="0 0 10 6">
+  <path fill-rule="evenodd" clip-rule="evenodd" d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z" fill="currentColor">
+</svg>
+
+                                          </summary>
+                                          <div id="childlink-ordinateurs-portables" class="menu-drawer__submenu has-submenu gradient motion-reduce">
+                                            <button class="menu-drawer__close-button link link--text focus-inset" aria-expanded="true">
+                                              <svg viewBox="0 0 14 10" fill="none" aria-hidden="true" focusable="false" role="presentation" class="icon icon-arrow" xmlns="http://www.w3.org/2000/svg">
+  <path fill-rule="evenodd" clip-rule="evenodd" d="M8.537.808a.5.5 0 01.817-.162l4 4a.5.5 0 010 .708l-4 4a.5.5 0 11-.708-.708L11.793 5.5H1a.5.5 0 010-1h10.793L8.646 1.354a.5.5 0 01-.109-.546z" fill="currentColor">
+</svg>
+
+                                              Ordinateurs &amp; Portables
+                                            </button>
+                                            <ul class="menu-drawer__menu list-menu" role="list" tabindex="-1"><li>
+                                                  <a href="#" class="menu-drawer__menu-item link link--text list-menu__item focus-inset">
+                                                    PC Tour
+                                                  </a>
+                                                </li><li>
+                                                  <a href="#" class="menu-drawer__menu-item link link--text list-menu__item focus-inset">
+                                                    Cables
+                                                  </a>
+                                                </li></ul>
+                                          </div>
+                                        </details></li><li><details id="Details-menu-drawer-submenu-5">
+                                          <summary class="menu-drawer__menu-item link link--text list-menu__item focus-inset">
+                                            Téléphone &amp; Audio
+                                            <svg viewBox="0 0 14 10" fill="none" aria-hidden="true" focusable="false" role="presentation" class="icon icon-arrow" xmlns="http://www.w3.org/2000/svg">
+  <path fill-rule="evenodd" clip-rule="evenodd" d="M8.537.808a.5.5 0 01.817-.162l4 4a.5.5 0 010 .708l-4 4a.5.5 0 11-.708-.708L11.793 5.5H1a.5.5 0 010-1h10.793L8.646 1.354a.5.5 0 01-.109-.546z" fill="currentColor">
+</svg>
+
+                                            <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-caret" viewBox="0 0 10 6">
+  <path fill-rule="evenodd" clip-rule="evenodd" d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z" fill="currentColor">
+</svg>
+
+                                          </summary>
+                                          <div id="childlink-telephone-audio" class="menu-drawer__submenu has-submenu gradient motion-reduce">
+                                            <button class="menu-drawer__close-button link link--text focus-inset" aria-expanded="true">
+                                              <svg viewBox="0 0 14 10" fill="none" aria-hidden="true" focusable="false" role="presentation" class="icon icon-arrow" xmlns="http://www.w3.org/2000/svg">
+  <path fill-rule="evenodd" clip-rule="evenodd" d="M8.537.808a.5.5 0 01.817-.162l4 4a.5.5 0 010 .708l-4 4a.5.5 0 11-.708-.708L11.793 5.5H1a.5.5 0 010-1h10.793L8.646 1.354a.5.5 0 01-.109-.546z" fill="currentColor">
+</svg>
+
+                                              Téléphone &amp; Audio
+                                            </button>
+                                            <ul class="menu-drawer__menu list-menu" role="list" tabindex="-1"><li>
+                                                  <a href="/collections/coques-iphone" class="menu-drawer__menu-item link link--text list-menu__item focus-inset">
+                                                    Coques Smartphones
+                                                  </a>
+                                                </li><li>
+                                                  <a href="/collections/chargeurs" class="menu-drawer__menu-item link link--text list-menu__item focus-inset">
+                                                    Chargeurs
+                                                  </a>
+                                                </li><li>
+                                                  <a href="/collections/ecouteurs" class="menu-drawer__menu-item link link--text list-menu__item focus-inset">
+                                                    écouteurs
+                                                  </a>
+                                                </li></ul>
+                                          </div>
+                                        </details></li><li><a href="/collections/gaming-entretainement" class="menu-drawer__menu-item link link--text list-menu__item focus-inset">
+                                          Gaming &amp; Entretainement
+                                        </a></li><li><a href="/collections/photo-video" class="menu-drawer__menu-item link link--text list-menu__item focus-inset">
+                                          Photo &amp; Vidéo
+                                        </a></li></ul>
+                              </div>
+                            </div>
+                          </details></li><li><a href="/pages/contact" class="menu-drawer__menu-item list-menu__item link link--text focus-inset">
+                            Contact
+                          </a></li></ul>
+                </nav>
+                <div class="menu-drawer__utility-links"><a href="/account/login" class="menu-drawer__account link focus-inset h5">
+                      <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" role="presentation" class="icon icon-account" fill="none" viewBox="0 0 18 19">
+  <path fill-rule="evenodd" clip-rule="evenodd" d="M6 4.5a3 3 0 116 0 3 3 0 01-6 0zm3-4a4 4 0 100 8 4 4 0 000-8zm5.58 12.15c1.12.82 1.83 2.24 1.91 4.85H1.51c.08-2.6.79-4.03 1.9-4.85C4.66 11.75 6.5 11.5 9 11.5s4.35.26 5.58 1.15zM9 10.5c-2.5 0-4.65.24-6.17 1.35C1.27 12.98.5 14.93.5 18v.5h17V18c0-3.07-.77-5.02-2.33-6.15-1.52-1.1-3.67-1.35-6.17-1.35z" fill="currentColor">
+</svg>
+
+Connexion</a><ul class="list list-social list-unstyled" role="list"></ul>
+                </div>
+              </div>
+            </div>
+          </div>
+        </details>
+      </header-drawer><nav class="header__inline-menu">
+          <ul class="list-menu list-menu--inline" role="list"><li><header-menu>
+                    <details id="Details-HeaderMenu-1">
+                      <summary class="header__menu-item list-menu__item link focus-inset">
+                        <span>Catégories</span>
+                        <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-caret" viewBox="0 0 10 6">
+  <path fill-rule="evenodd" clip-rule="evenodd" d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z" fill="currentColor">
+</svg>
+
+                      </summary>
+                      <ul id="HeaderMenu-MenuList-1" class="header__submenu list-menu list-menu--disclosure gradient caption-large motion-reduce global-settings-popup" role="list" tabindex="-1"><li><a href="/collections/nos-promo" class="header__menu-item list-menu__item link link--text focus-inset caption-large">
+                                Nos Promo
+                              </a></li><li><a href="/collections/nouveautes" class="header__menu-item list-menu__item link link--text focus-inset caption-large">
+                                Nouveautés
+                              </a></li><li><details id="Details-HeaderSubMenu-3">
+                                <summary class="header__menu-item link link--text list-menu__item focus-inset caption-large">
+                                  <span>Informatique</span>
+                                  <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-caret" viewBox="0 0 10 6">
+  <path fill-rule="evenodd" clip-rule="evenodd" d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z" fill="currentColor">
+</svg>
+
+                                </summary>
+                                <ul id="HeaderMenu-SubMenuList-3" class="header__submenu list-menu motion-reduce"><li>
+                                      <a href="/collections/alimentation" class="header__menu-item list-menu__item link link--text focus-inset caption-large">
+                                        Alimentation
+                                      </a>
+                                    </li><li>
+                                      <a href="/collections/carte-meres" class="header__menu-item list-menu__item link link--text focus-inset caption-large">
+                                        Carte mères
+                                      </a>
+                                    </li><li>
+                                      <a href="/collections/processeurs" class="header__menu-item list-menu__item link link--text focus-inset caption-large">
+                                        Processeur
+                                      </a>
+                                    </li><li>
+                                      <a href="/collections/ssd-interne" class="header__menu-item list-menu__item link link--text focus-inset caption-large">
+                                        SSD Interne
+                                      </a>
+                                    </li></ul>
+                              </details></li><li><details id="Details-HeaderSubMenu-4">
+                                <summary class="header__menu-item link link--text list-menu__item focus-inset caption-large">
+                                  <span>Ordinateurs &amp; Portables</span>
+                                  <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-caret" viewBox="0 0 10 6">
+  <path fill-rule="evenodd" clip-rule="evenodd" d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z" fill="currentColor">
+</svg>
+
+                                </summary>
+                                <ul id="HeaderMenu-SubMenuList-4" class="header__submenu list-menu motion-reduce"><li>
+                                      <a href="#" class="header__menu-item list-menu__item link link--text focus-inset caption-large">
+                                        PC Tour
+                                      </a>
+                                    </li><li>
+                                      <a href="#" class="header__menu-item list-menu__item link link--text focus-inset caption-large">
+                                        Cables
+                                      </a>
+                                    </li></ul>
+                              </details></li><li><details id="Details-HeaderSubMenu-5">
+                                <summary class="header__menu-item link link--text list-menu__item focus-inset caption-large">
+                                  <span>Téléphone &amp; Audio</span>
+                                  <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-caret" viewBox="0 0 10 6">
+  <path fill-rule="evenodd" clip-rule="evenodd" d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z" fill="currentColor">
+</svg>
+
+                                </summary>
+                                <ul id="HeaderMenu-SubMenuList-5" class="header__submenu list-menu motion-reduce"><li>
+                                      <a href="/collections/coques-iphone" class="header__menu-item list-menu__item link link--text focus-inset caption-large">
+                                        Coques Smartphones
+                                      </a>
+                                    </li><li>
+                                      <a href="/collections/chargeurs" class="header__menu-item list-menu__item link link--text focus-inset caption-large">
+                                        Chargeurs
+                                      </a>
+                                    </li><li>
+                                      <a href="/collections/ecouteurs" class="header__menu-item list-menu__item link link--text focus-inset caption-large">
+                                        écouteurs
+                                      </a>
+                                    </li></ul>
+                              </details></li><li><a href="/collections/gaming-entretainement" class="header__menu-item list-menu__item link link--text focus-inset caption-large">
+                                Gaming &amp; Entretainement
+                              </a></li><li><a href="/collections/photo-video" class="header__menu-item list-menu__item link link--text focus-inset caption-large">
+                                Photo &amp; Vidéo
+                              </a></li></ul>
+                    </details>
+                  </header-menu></li><li><a href="/pages/contact" class="header__menu-item list-menu__item link link--text focus-inset">
+                    <span>Contact</span>
+                  </a></li></ul>
+        </nav><a href="/" class="header__heading-link link link--text focus-inset"><img src="//cdn.shopify.com/s/files/1/0689/8073/6268/files/FREAKY_GEEK_1_a0c7fa7b-3ee0-43fe-bb35-9302fbf4de83.png?v=1675350393" alt="Freaky Geek" srcset="//cdn.shopify.com/s/files/1/0689/8073/6268/files/FREAKY_GEEK_1_a0c7fa7b-3ee0-43fe-bb35-9302fbf4de83.png?v=1675350393&amp;width=50 50w, //cdn.shopify.com/s/files/1/0689/8073/6268/files/FREAKY_GEEK_1_a0c7fa7b-3ee0-43fe-bb35-9302fbf4de83.png?v=1675350393&amp;width=100 100w, //cdn.shopify.com/s/files/1/0689/8073/6268/files/FREAKY_GEEK_1_a0c7fa7b-3ee0-43fe-bb35-9302fbf4de83.png?v=1675350393&amp;width=150 150w, //cdn.shopify.com/s/files/1/0689/8073/6268/files/FREAKY_GEEK_1_a0c7fa7b-3ee0-43fe-bb35-9302fbf4de83.png?v=1675350393&amp;width=200 200w, //cdn.shopify.com/s/files/1/0689/8073/6268/files/FREAKY_GEEK_1_a0c7fa7b-3ee0-43fe-bb35-9302fbf4de83.png?v=1675350393&amp;width=250 250w, //cdn.shopify.com/s/files/1/0689/8073/6268/files/FREAKY_GEEK_1_a0c7fa7b-3ee0-43fe-bb35-9302fbf4de83.png?v=1675350393&amp;width=300 300w, //cdn.shopify.com/s/files/1/0689/8073/6268/files/FREAKY_GEEK_1_a0c7fa7b-3ee0-43fe-bb35-9302fbf4de83.png?v=1675350393&amp;width=400 400w, //cdn.shopify.com/s/files/1/0689/8073/6268/files/FREAKY_GEEK_1_a0c7fa7b-3ee0-43fe-bb35-9302fbf4de83.png?v=1675350393&amp;width=500 500w" width="120" height="52.08" class="header__heading-logo">
+</a><div class="header__icons">
+      <details-modal class="header__search">
+        <details>
+          <summary class="header__icon header__icon--search header__icon--summary link focus-inset modal__toggle" aria-haspopup="dialog" aria-label="Recherche">
+            <span>
+              <svg class="modal__toggle-open icon icon-search" aria-hidden="true" focusable="false" role="presentation">
+                <use href="#icon-search">
+              </svg>
+              <svg class="modal__toggle-close icon icon-close" aria-hidden="true" focusable="false" role="presentation">
+                <use href="#icon-close">
+              </svg>
+            </span>
+          </summary>
+          <div class="search-modal modal__content gradient" role="dialog" aria-modal="true" aria-label="Recherche">
+            <div class="modal-overlay"></div>
+            <div class="search-modal__content search-modal__content-bottom" tabindex="-1"><predictive-search class="search-modal__form" data-loading-text="Chargement en cours..."><form action="/search" method="get" role="search" class="search search-modal__form">
+                  <div class="field">
+                    <input class="search__input field__input"
+                      id="Search-In-Modal"
+                      type="search"
+                      name="q"
+                      value=""
+                      placeholder="Recherche"role="combobox"
+                        aria-expanded="false"
+                        aria-owns="predictive-search-results-list"
+                        aria-controls="predictive-search-results-list"
+                        aria-haspopup="listbox"
+                        aria-autocomplete="list"
+                        autocorrect="off"
+                        autocomplete="off"
+                        autocapitalize="off"
+                        spellcheck="false">
+                    <label class="field__label" for="Search-In-Modal">Recherche</label>
+                    <input type="hidden" name="options[prefix]" value="last">
+                    <button class="search__button field__button" aria-label="Recherche">
+                      <svg class="icon icon-search" aria-hidden="true" focusable="false" role="presentation">
+                        <use href="#icon-search">
+                      </svg>
+                    </button>
+                  </div><div class="predictive-search predictive-search--header" tabindex="-1" data-predictive-search>
+                      <div class="predictive-search__loading-state">
+                        <svg aria-hidden="true" focusable="false" role="presentation" class="spinner" viewBox="0 0 66 66" xmlns="http://www.w3.org/2000/svg">
+                          <circle class="path" fill="none" stroke-width="6" cx="33" cy="33" r="30"></circle>
+                        </svg>
+                      </div>
+                    </div>
+
+                    <span class="predictive-search-status visually-hidden" role="status" aria-hidden="true"></span></form></predictive-search><button type="button" class="search-modal__close-button modal__close-button link link--text focus-inset" aria-label="Fermer">
+                <svg class="icon icon-close" aria-hidden="true" focusable="false" role="presentation">
+                  <use href="#icon-close">
+                </svg>
+              </button>
+            </div>
+          </div>
+        </details>
+      </details-modal><a href="/account/login" class="header__icon header__icon--account link focus-inset small-hide">
+          <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" role="presentation" class="icon icon-account" fill="none" viewBox="0 0 18 19">
+  <path fill-rule="evenodd" clip-rule="evenodd" d="M6 4.5a3 3 0 116 0 3 3 0 01-6 0zm3-4a4 4 0 100 8 4 4 0 000-8zm5.58 12.15c1.12.82 1.83 2.24 1.91 4.85H1.51c.08-2.6.79-4.03 1.9-4.85C4.66 11.75 6.5 11.5 9 11.5s4.35.26 5.58 1.15zM9 10.5c-2.5 0-4.65.24-6.17 1.35C1.27 12.98.5 14.93.5 18v.5h17V18c0-3.07-.77-5.02-2.33-6.15-1.52-1.1-3.67-1.35-6.17-1.35z" fill="currentColor">
+</svg>
+
+          <span class="visually-hidden">Connexion</span>
+        </a><a href="/cart" class="header__icon header__icon--cart link focus-inset" id="cart-icon-bubble"><svg class="icon icon-cart-empty" aria-hidden="true" focusable="false" role="presentation" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40" fill="none">
+  <path d="m15.75 11.8h-3.16l-.77 11.6a5 5 0 0 0 4.99 5.34h7.38a5 5 0 0 0 4.99-5.33l-.78-11.61zm0 1h-2.22l-.71 10.67a4 4 0 0 0 3.99 4.27h7.38a4 4 0 0 0 4-4.27l-.72-10.67h-2.22v.63a4.75 4.75 0 1 1 -9.5 0zm8.5 0h-7.5v.63a3.75 3.75 0 1 0 7.5 0z" fill="currentColor" fill-rule="evenodd"/>
+</svg>
+<span class="visually-hidden">Panier</span></a>
+    </div>
+  </header>
+</sticky-header>
+
+<cart-notification>
+  <div class="cart-notification-wrapper page-width">
+    <div id="cart-notification" class="cart-notification focus-inset color-accent-1 gradient" aria-modal="true" aria-label="Article ajouté au panier" role="dialog" tabindex="-1">
+      <div class="cart-notification__header">
+        <h2 class="cart-notification__heading caption-large text-body"><svg class="icon icon-checkmark color-foreground-text" aria-hidden="true" focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 9" fill="none">
+  <path fill-rule="evenodd" clip-rule="evenodd" d="M11.35.643a.5.5 0 01.006.707l-6.77 6.886a.5.5 0 01-.719-.006L.638 4.845a.5.5 0 11.724-.69l2.872 3.011 6.41-6.517a.5.5 0 01.707-.006h-.001z" fill="currentColor"/>
+</svg>
+Article ajouté au panier</h2>
+        <button type="button" class="cart-notification__close modal__close-button link link--text focus-inset" aria-label="Fermer">
+          <svg class="icon icon-close" aria-hidden="true" focusable="false"><use href="#icon-close"></svg>
+        </button>
+      </div>
+      <div id="cart-notification-product" class="cart-notification-product"></div>
+      <div class="cart-notification__links">
+        <a href="/cart" id="cart-notification-button" class="button button--secondary button--full-width"></a>
+        <form action="/cart" method="post" id="cart-notification-form">
+          <button class="button button--primary button--full-width" name="checkout">Procéder au paiement</button>
+        </form>
+        <button type="button" class="link button-label">Continuer les achats</button>
+      </div>
+    </div>
+  </div>
+</cart-notification>
+<style data-shopify>
+  .cart-notification {
+     display: none;
+  }
+</style>
+
+
+<script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Freaky Geek",
+    
+      "logo": "https:\/\/cdn.shopify.com\/s\/files\/1\/0689\/8073\/6268\/files\/FREAKY_GEEK_1_a0c7fa7b-3ee0-43fe-bb35-9302fbf4de83.png?v=1675350393\u0026width=500",
+    
+    "sameAs": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "url": "https:\/\/www.freakygeek.fr"
+  }
+</script>
+<div class="container-fluid color-line" style="
+    background: linear-gradient(to right, #ffff4a, #fcd000, #ffc112, #ffc112, #ff8a00, #ff5f5f, #ff253a, #ff37a8, #c739ff, #a400e1, #2eceff, #0086ff, #72f772, #00d604);
+    height: 5px;
+    width: 100%;
+    background-image: linear-gradient(to right, #ffff4a, #fcd000, #ffc112, #ffc112, #ff8a00, #ff5f5f, #ff253a, #ff37a8, #c739ff, #a400e1, #2eceff, #0086ff, #72f772, #00d604);">
+    </div>
+
+                    
+
+</div>
+    <main id="MainContent" class="content-for-layout focus-none" role="main" tabindex="-1">
+      <section id="shopify-section-template--17496348557580__main" class="shopify-section section"><section
+  id="MainProduct-template--17496348557580__main"
+  class="page-width section-template--17496348557580__main-padding"
+  data-section="template--17496348557580__main"
+>
+  <link href="//cdn.shopify.com/s/files/1/0689/8073/6268/t/2/assets/section-main-product.css?v=47066373402512928901676409340" rel="stylesheet" type="text/css" media="all" />
+  <link href="//cdn.shopify.com/s/files/1/0689/8073/6268/t/2/assets/component-accordion.css?v=180964204318874863811675519462" rel="stylesheet" type="text/css" media="all" />
+  <link href="//cdn.shopify.com/s/files/1/0689/8073/6268/t/2/assets/component-price.css?v=65402837579211014041675519462" rel="stylesheet" type="text/css" media="all" />
+  <link href="//cdn.shopify.com/s/files/1/0689/8073/6268/t/2/assets/component-rte.css?v=69919436638515329781675519462" rel="stylesheet" type="text/css" media="all" />
+  <link href="//cdn.shopify.com/s/files/1/0689/8073/6268/t/2/assets/component-slider.css?v=111384418465749404671675519462" rel="stylesheet" type="text/css" media="all" />
+  <link href="//cdn.shopify.com/s/files/1/0689/8073/6268/t/2/assets/component-rating.css?v=24573085263941240431675519462" rel="stylesheet" type="text/css" media="all" />
+  <link href="//cdn.shopify.com/s/files/1/0689/8073/6268/t/2/assets/component-loading-overlay.css?v=167310470843593579841675519462" rel="stylesheet" type="text/css" media="all" />
+  <link href="//cdn.shopify.com/s/files/1/0689/8073/6268/t/2/assets/component-deferred-media.css?v=54092797763792720131675519462" rel="stylesheet" type="text/css" media="all" />
+<style data-shopify>.section-template--17496348557580__main-padding {
+      padding-top: 27px;
+      padding-bottom: 9px;
+    }
+
+    @media screen and (min-width: 750px) {
+      .section-template--17496348557580__main-padding {
+        padding-top: 36px;
+        padding-bottom: 12px;
+      }
+    }</style><script src="//cdn.shopify.com/s/files/1/0689/8073/6268/t/2/assets/product-form.js?v=24702737604959294451675519462" defer="defer"></script><div class="product product--large product--left product--stacked product--mobile-hide grid grid--1-col grid--2-col-tablet">
+    <div class="grid__item product__media-wrapper">
+      <media-gallery
+        id="MediaGallery-template--17496348557580__main"
+        role="region"
+        
+          class="product__media-gallery"
+        
+        aria-label="Visionneuse de la galerie"
+        data-desktop-layout="stacked"
+      >
+        <div id="GalleryStatus-template--17496348557580__main" class="visually-hidden" role="status"></div>
+        <slider-component id="GalleryViewer-template--17496348557580__main" class="slider-mobile-gutter">
+          <a class="skip-to-content-link button visually-hidden quick-add-hidden" href="#ProductInfo-template--17496348557580__main">
+            Passer aux informations produits
+          </a>
+          <ul
+            id="Slider-Gallery-template--17496348557580__main"
+            class="product__media-list contains-media grid grid--peek list-unstyled slider slider--mobile"
+            role="list"
+          ><li
+                  id="Slide-template--17496348557580__main-35119790522636"
+                  class="product__media-item grid__item slider__slide is-active"
+                  data-media-id="template--17496348557580__main-35119790522636"
+                >
+
+<noscript><div class="product__media media gradient global-media-settings" style="padding-top: 100.30769230769232%;">
+      <img src="//cdn.shopify.com/s/files/1/0689/8073/6268/products/1edit_c1422a8c-c59d-448c-9ab0-d5ab2e75cb7f.png?v=1676214389&amp;width=1946" alt="" srcset="//cdn.shopify.com/s/files/1/0689/8073/6268/products/1edit_c1422a8c-c59d-448c-9ab0-d5ab2e75cb7f.png?v=1676214389&amp;width=246 246w, //cdn.shopify.com/s/files/1/0689/8073/6268/products/1edit_c1422a8c-c59d-448c-9ab0-d5ab2e75cb7f.png?v=1676214389&amp;width=493 493w, //cdn.shopify.com/s/files/1/0689/8073/6268/products/1edit_c1422a8c-c59d-448c-9ab0-d5ab2e75cb7f.png?v=1676214389&amp;width=600 600w, //cdn.shopify.com/s/files/1/0689/8073/6268/products/1edit_c1422a8c-c59d-448c-9ab0-d5ab2e75cb7f.png?v=1676214389&amp;width=713 713w, //cdn.shopify.com/s/files/1/0689/8073/6268/products/1edit_c1422a8c-c59d-448c-9ab0-d5ab2e75cb7f.png?v=1676214389&amp;width=823 823w, //cdn.shopify.com/s/files/1/0689/8073/6268/products/1edit_c1422a8c-c59d-448c-9ab0-d5ab2e75cb7f.png?v=1676214389&amp;width=990 990w, //cdn.shopify.com/s/files/1/0689/8073/6268/products/1edit_c1422a8c-c59d-448c-9ab0-d5ab2e75cb7f.png?v=1676214389&amp;width=1100 1100w, //cdn.shopify.com/s/files/1/0689/8073/6268/products/1edit_c1422a8c-c59d-448c-9ab0-d5ab2e75cb7f.png?v=1676214389&amp;width=1206 1206w, //cdn.shopify.com/s/files/1/0689/8073/6268/products/1edit_c1422a8c-c59d-448c-9ab0-d5ab2e75cb7f.png?v=1676214389&amp;width=1346 1346w, //cdn.shopify.com/s/files/1/0689/8073/6268/products/1edit_c1422a8c-c59d-448c-9ab0-d5ab2e75cb7f.png?v=1676214389&amp;width=1426 1426w, //cdn.shopify.com/s/files/1/0689/8073/6268/products/1edit_c1422a8c-c59d-448c-9ab0-d5ab2e75cb7f.png?v=1676214389&amp;width=1646 1646w, //cdn.shopify.com/s/files/1/0689/8073/6268/products/1edit_c1422a8c-c59d-448c-9ab0-d5ab2e75cb7f.png?v=1676214389&amp;width=1946 1946w" width="1946" height="1952" sizes="(min-width: 1600px) 975px, (min-width: 990px) calc(65.0vw - 10rem), (min-width: 750px) calc((100vw - 11.5rem) / 2), calc(100vw / 1 - 4rem)">
+    </div></noscript>
+
+<modal-opener class="product__modal-opener product__modal-opener--image no-js-hidden" data-modal="#ProductModal-template--17496348557580__main">
+  <span class="product__media-icon motion-reduce quick-add-hidden" aria-hidden="true"><svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-plus" width="19" height="19" viewBox="0 0 19 19" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path fill-rule="evenodd" clip-rule="evenodd" d="M4.66724 7.93978C4.66655 7.66364 4.88984 7.43922 5.16598 7.43853L10.6996 7.42464C10.9758 7.42395 11.2002 7.64724 11.2009 7.92339C11.2016 8.19953 10.9783 8.42395 10.7021 8.42464L5.16849 8.43852C4.89235 8.43922 4.66793 8.21592 4.66724 7.93978Z" fill="currentColor"/>
+  <path fill-rule="evenodd" clip-rule="evenodd" d="M7.92576 4.66463C8.2019 4.66394 8.42632 4.88723 8.42702 5.16337L8.4409 10.697C8.44159 10.9732 8.2183 11.1976 7.94215 11.1983C7.66601 11.199 7.44159 10.9757 7.4409 10.6995L7.42702 5.16588C7.42633 4.88974 7.64962 4.66532 7.92576 4.66463Z" fill="currentColor"/>
+  <path fill-rule="evenodd" clip-rule="evenodd" d="M12.8324 3.03011C10.1255 0.323296 5.73693 0.323296 3.03011 3.03011C0.323296 5.73693 0.323296 10.1256 3.03011 12.8324C5.73693 15.5392 10.1255 15.5392 12.8324 12.8324C15.5392 10.1256 15.5392 5.73693 12.8324 3.03011ZM2.32301 2.32301C5.42035 -0.774336 10.4421 -0.774336 13.5395 2.32301C16.6101 5.39361 16.6366 10.3556 13.619 13.4588L18.2473 18.0871C18.4426 18.2824 18.4426 18.599 18.2473 18.7943C18.0521 18.9895 17.7355 18.9895 17.5402 18.7943L12.8778 14.1318C9.76383 16.6223 5.20839 16.4249 2.32301 13.5395C-0.774335 10.4421 -0.774335 5.42035 2.32301 2.32301Z" fill="currentColor"/>
+</svg>
+</span>
+
+  <div class="product__media media media--transparent gradient global-media-settings" style="padding-top: 100.30769230769232%;">
+    <img src="//cdn.shopify.com/s/files/1/0689/8073/6268/products/1edit_c1422a8c-c59d-448c-9ab0-d5ab2e75cb7f.png?v=1676214389&amp;width=1946" alt="" srcset="//cdn.shopify.com/s/files/1/0689/8073/6268/products/1edit_c1422a8c-c59d-448c-9ab0-d5ab2e75cb7f.png?v=1676214389&amp;width=246 246w, //cdn.shopify.com/s/files/1/0689/8073/6268/products/1edit_c1422a8c-c59d-448c-9ab0-d5ab2e75cb7f.png?v=1676214389&amp;width=493 493w, //cdn.shopify.com/s/files/1/0689/8073/6268/products/1edit_c1422a8c-c59d-448c-9ab0-d5ab2e75cb7f.png?v=1676214389&amp;width=600 600w, //cdn.shopify.com/s/files/1/0689/8073/6268/products/1edit_c1422a8c-c59d-448c-9ab0-d5ab2e75cb7f.png?v=1676214389&amp;width=713 713w, //cdn.shopify.com/s/files/1/0689/8073/6268/products/1edit_c1422a8c-c59d-448c-9ab0-d5ab2e75cb7f.png?v=1676214389&amp;width=823 823w, //cdn.shopify.com/s/files/1/0689/8073/6268/products/1edit_c1422a8c-c59d-448c-9ab0-d5ab2e75cb7f.png?v=1676214389&amp;width=990 990w, //cdn.shopify.com/s/files/1/0689/8073/6268/products/1edit_c1422a8c-c59d-448c-9ab0-d5ab2e75cb7f.png?v=1676214389&amp;width=1100 1100w, //cdn.shopify.com/s/files/1/0689/8073/6268/products/1edit_c1422a8c-c59d-448c-9ab0-d5ab2e75cb7f.png?v=1676214389&amp;width=1206 1206w, //cdn.shopify.com/s/files/1/0689/8073/6268/products/1edit_c1422a8c-c59d-448c-9ab0-d5ab2e75cb7f.png?v=1676214389&amp;width=1346 1346w, //cdn.shopify.com/s/files/1/0689/8073/6268/products/1edit_c1422a8c-c59d-448c-9ab0-d5ab2e75cb7f.png?v=1676214389&amp;width=1426 1426w, //cdn.shopify.com/s/files/1/0689/8073/6268/products/1edit_c1422a8c-c59d-448c-9ab0-d5ab2e75cb7f.png?v=1676214389&amp;width=1646 1646w, //cdn.shopify.com/s/files/1/0689/8073/6268/products/1edit_c1422a8c-c59d-448c-9ab0-d5ab2e75cb7f.png?v=1676214389&amp;width=1946 1946w" width="1946" height="1952" sizes="(min-width: 1600px) 975px, (min-width: 990px) calc(65.0vw - 10rem), (min-width: 750px) calc((100vw - 11.5rem) / 2), calc(100vw / 1 - 4rem)">
+  </div>
+  <button class="product__media-toggle quick-add-hidden" type="button" aria-haspopup="dialog" data-media-id="35119790522636">
+    <span class="visually-hidden">
+      Ouvrir le média 1 dans une fenêtre modale
+    </span>
+  </button>
+</modal-opener></li><li
+                  id="Slide-template--17496348557580__main-35119790555404"
+                  class="product__media-item grid__item slider__slide"
+                  data-media-id="template--17496348557580__main-35119790555404"
+                >
+
+<noscript><div class="product__media media gradient global-media-settings" style="padding-top: 101.35135135135134%;">
+      <img src="//cdn.shopify.com/s/files/1/0689/8073/6268/products/2_85fb40a6-61ce-4ed3-b8d5-7d054670e7ca.jpg?v=1676214387&amp;width=1946" alt="" srcset="//cdn.shopify.com/s/files/1/0689/8073/6268/products/2_85fb40a6-61ce-4ed3-b8d5-7d054670e7ca.jpg?v=1676214387&amp;width=246 246w, //cdn.shopify.com/s/files/1/0689/8073/6268/products/2_85fb40a6-61ce-4ed3-b8d5-7d054670e7ca.jpg?v=1676214387&amp;width=493 493w, //cdn.shopify.com/s/files/1/0689/8073/6268/products/2_85fb40a6-61ce-4ed3-b8d5-7d054670e7ca.jpg?v=1676214387&amp;width=600 600w, //cdn.shopify.com/s/files/1/0689/8073/6268/products/2_85fb40a6-61ce-4ed3-b8d5-7d054670e7ca.jpg?v=1676214387&amp;width=713 713w, //cdn.shopify.com/s/files/1/0689/8073/6268/products/2_85fb40a6-61ce-4ed3-b8d5-7d054670e7ca.jpg?v=1676214387&amp;width=823 823w, //cdn.shopify.com/s/files/1/0689/8073/6268/products/2_85fb40a6-61ce-4ed3-b8d5-7d054670e7ca.jpg?v=1676214387&amp;width=990 990w, //cdn.shopify.com/s/files/1/0689/8073/6268/products/2_85fb40a6-61ce-4ed3-b8d5-7d054670e7ca.jpg?v=1676214387&amp;width=1100 1100w, //cdn.shopify.com/s/files/1/0689/8073/6268/products/2_85fb40a6-61ce-4ed3-b8d5-7d054670e7ca.jpg?v=1676214387&amp;width=1206 1206w, //cdn.shopify.com/s/files/1/0689/8073/6268/products/2_85fb40a6-61ce-4ed3-b8d5-7d054670e7ca.jpg?v=1676214387&amp;width=1346 1346w, //cdn.shopify.com/s/files/1/0689/8073/6268/products/2_85fb40a6-61ce-4ed3-b8d5-7d054670e7ca.jpg?v=1676214387&amp;width=1426 1426w, //cdn.shopify.com/s/files/1/0689/8073/6268/products/2_85fb40a6-61ce-4ed3-b8d5-7d054670e7ca.jpg?v=1676214387&amp;width=1646 1646w, //cdn.shopify.com/s/files/1/0689/8073/6268/products/2_85fb40a6-61ce-4ed3-b8d5-7d054670e7ca.jpg?v=1676214387&amp;width=1946 1946w" width="1946" height="1972" loading="lazy" sizes="(min-width: 1600px) 975px, (min-width: 990px) calc(65.0vw - 10rem), (min-width: 750px) calc((100vw - 11.5rem) / 2), calc(100vw / 1 - 4rem)">
+    </div></noscript>
+
+<modal-opener class="product__modal-opener product__modal-opener--image no-js-hidden" data-modal="#ProductModal-template--17496348557580__main">
+  <span class="product__media-icon motion-reduce quick-add-hidden" aria-hidden="true"><svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-plus" width="19" height="19" viewBox="0 0 19 19" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path fill-rule="evenodd" clip-rule="evenodd" d="M4.66724 7.93978C4.66655 7.66364 4.88984 7.43922 5.16598 7.43853L10.6996 7.42464C10.9758 7.42395 11.2002 7.64724 11.2009 7.92339C11.2016 8.19953 10.9783 8.42395 10.7021 8.42464L5.16849 8.43852C4.89235 8.43922 4.66793 8.21592 4.66724 7.93978Z" fill="currentColor"/>
+  <path fill-rule="evenodd" clip-rule="evenodd" d="M7.92576 4.66463C8.2019 4.66394 8.42632 4.88723 8.42702 5.16337L8.4409 10.697C8.44159 10.9732 8.2183 11.1976 7.94215 11.1983C7.66601 11.199 7.44159 10.9757 7.4409 10.6995L7.42702 5.16588C7.42633 4.88974 7.64962 4.66532 7.92576 4.66463Z" fill="currentColor"/>
+  <path fill-rule="evenodd" clip-rule="evenodd" d="M12.8324 3.03011C10.1255 0.323296 5.73693 0.323296 3.03011 3.03011C0.323296 5.73693 0.323296 10.1256 3.03011 12.8324C5.73693 15.5392 10.1255 15.5392 12.8324 12.8324C15.5392 10.1256 15.5392 5.73693 12.8324 3.03011ZM2.32301 2.32301C5.42035 -0.774336 10.4421 -0.774336 13.5395 2.32301C16.6101 5.39361 16.6366 10.3556 13.619 13.4588L18.2473 18.0871C18.4426 18.2824 18.4426 18.599 18.2473 18.7943C18.0521 18.9895 17.7355 18.9895 17.5402 18.7943L12.8778 14.1318C9.76383 16.6223 5.20839 16.4249 2.32301 13.5395C-0.774335 10.4421 -0.774335 5.42035 2.32301 2.32301Z" fill="currentColor"/>
+</svg>
+</span>
+
+  <div class="product__media media media--transparent gradient global-media-settings" style="padding-top: 101.35135135135134%;">
+    <img src="//cdn.shopify.com/s/files/1/0689/8073/6268/products/2_85fb40a6-61ce-4ed3-b8d5-7d054670e7ca.jpg?v=1676214387&amp;width=1946" alt="" srcset="//cdn.shopify.com/s/files/1/0689/8073/6268/products/2_85fb40a6-61ce-4ed3-b8d5-7d054670e7ca.jpg?v=1676214387&amp;width=246 246w, //cdn.shopify.com/s/files/1/0689/8073/6268/products/2_85fb40a6-61ce-4ed3-b8d5-7d054670e7ca.jpg?v=1676214387&amp;width=493 493w, //cdn.shopify.com/s/files/1/0689/8073/6268/products/2_85fb40a6-61ce-4ed3-b8d5-7d054670e7ca.jpg?v=1676214387&amp;width=600 600w, //cdn.shopify.com/s/files/1/0689/8073/6268/products/2_85fb40a6-61ce-4ed3-b8d5-7d054670e7ca.jpg?v=1676214387&amp;width=713 713w, //cdn.shopify.com/s/files/1/0689/8073/6268/products/2_85fb40a6-61ce-4ed3-b8d5-7d054670e7ca.jpg?v=1676214387&amp;width=823 823w, //cdn.shopify.com/s/files/1/0689/8073/6268/products/2_85fb40a6-61ce-4ed3-b8d5-7d054670e7ca.jpg?v=1676214387&amp;width=990 990w, //cdn.shopify.com/s/files/1/0689/8073/6268/products/2_85fb40a6-61ce-4ed3-b8d5-7d054670e7ca.jpg?v=1676214387&amp;width=1100 1100w, //cdn.shopify.com/s/files/1/0689/8073/6268/products/2_85fb40a6-61ce-4ed3-b8d5-7d054670e7ca.jpg?v=1676214387&amp;width=1206 1206w, //cdn.shopify.com/s/files/1/0689/8073/6268/products/2_85fb40a6-61ce-4ed3-b8d5-7d054670e7ca.jpg?v=1676214387&amp;width=1346 1346w, //cdn.shopify.com/s/files/1/0689/8073/6268/products/2_85fb40a6-61ce-4ed3-b8d5-7d054670e7ca.jpg?v=1676214387&amp;width=1426 1426w, //cdn.shopify.com/s/files/1/0689/8073/6268/products/2_85fb40a6-61ce-4ed3-b8d5-7d054670e7ca.jpg?v=1676214387&amp;width=1646 1646w, //cdn.shopify.com/s/files/1/0689/8073/6268/products/2_85fb40a6-61ce-4ed3-b8d5-7d054670e7ca.jpg?v=1676214387&amp;width=1946 1946w" width="1946" height="1972" loading="lazy" sizes="(min-width: 1600px) 975px, (min-width: 990px) calc(65.0vw - 10rem), (min-width: 750px) calc((100vw - 11.5rem) / 2), calc(100vw / 1 - 4rem)">
+  </div>
+  <button class="product__media-toggle quick-add-hidden" type="button" aria-haspopup="dialog" data-media-id="35119790555404">
+    <span class="visually-hidden">
+      Ouvrir le média 2 dans une fenêtre modale
+    </span>
+  </button>
+</modal-opener></li><li
+                  id="Slide-template--17496348557580__main-35119790588172"
+                  class="product__media-item grid__item slider__slide"
+                  data-media-id="template--17496348557580__main-35119790588172"
+                >
+
+<noscript><div class="product__media media gradient global-media-settings" style="padding-top: 77.26666666666667%;">
+      <img src="//cdn.shopify.com/s/files/1/0689/8073/6268/products/3_364431ea-2dcb-402c-89aa-41e9848867f1.jpg?v=1676214387&amp;width=1946" alt="" srcset="//cdn.shopify.com/s/files/1/0689/8073/6268/products/3_364431ea-2dcb-402c-89aa-41e9848867f1.jpg?v=1676214387&amp;width=246 246w, //cdn.shopify.com/s/files/1/0689/8073/6268/products/3_364431ea-2dcb-402c-89aa-41e9848867f1.jpg?v=1676214387&amp;width=493 493w, //cdn.shopify.com/s/files/1/0689/8073/6268/products/3_364431ea-2dcb-402c-89aa-41e9848867f1.jpg?v=1676214387&amp;width=600 600w, //cdn.shopify.com/s/files/1/0689/8073/6268/products/3_364431ea-2dcb-402c-89aa-41e9848867f1.jpg?v=1676214387&amp;width=713 713w, //cdn.shopify.com/s/files/1/0689/8073/6268/products/3_364431ea-2dcb-402c-89aa-41e9848867f1.jpg?v=1676214387&amp;width=823 823w, //cdn.shopify.com/s/files/1/0689/8073/6268/products/3_364431ea-2dcb-402c-89aa-41e9848867f1.jpg?v=1676214387&amp;width=990 990w, //cdn.shopify.com/s/files/1/0689/8073/6268/products/3_364431ea-2dcb-402c-89aa-41e9848867f1.jpg?v=1676214387&amp;width=1100 1100w, //cdn.shopify.com/s/files/1/0689/8073/6268/products/3_364431ea-2dcb-402c-89aa-41e9848867f1.jpg?v=1676214387&amp;width=1206 1206w, //cdn.shopify.com/s/files/1/0689/8073/6268/products/3_364431ea-2dcb-402c-89aa-41e9848867f1.jpg?v=1676214387&amp;width=1346 1346w, //cdn.shopify.com/s/files/1/0689/8073/6268/products/3_364431ea-2dcb-402c-89aa-41e9848867f1.jpg?v=1676214387&amp;width=1426 1426w, //cdn.shopify.com/s/files/1/0689/8073/6268/products/3_364431ea-2dcb-402c-89aa-41e9848867f1.jpg?v=1676214387&amp;width=1646 1646w, //cdn.shopify.com/s/files/1/0689/8073/6268/products/3_364431ea-2dcb-402c-89aa-41e9848867f1.jpg?v=1676214387&amp;width=1946 1946w" width="1946" height="1504" loading="lazy" sizes="(min-width: 1600px) 975px, (min-width: 990px) calc(65.0vw - 10rem), (min-width: 750px) calc((100vw - 11.5rem) / 2), calc(100vw / 1 - 4rem)">
+    </div></noscript>
+
+<modal-opener class="product__modal-opener product__modal-opener--image no-js-hidden" data-modal="#ProductModal-template--17496348557580__main">
+  <span class="product__media-icon motion-reduce quick-add-hidden" aria-hidden="true"><svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-plus" width="19" height="19" viewBox="0 0 19 19" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path fill-rule="evenodd" clip-rule="evenodd" d="M4.66724 7.93978C4.66655 7.66364 4.88984 7.43922 5.16598 7.43853L10.6996 7.42464C10.9758 7.42395 11.2002 7.64724 11.2009 7.92339C11.2016 8.19953 10.9783 8.42395 10.7021 8.42464L5.16849 8.43852C4.89235 8.43922 4.66793 8.21592 4.66724 7.93978Z" fill="currentColor"/>
+  <path fill-rule="evenodd" clip-rule="evenodd" d="M7.92576 4.66463C8.2019 4.66394 8.42632 4.88723 8.42702 5.16337L8.4409 10.697C8.44159 10.9732 8.2183 11.1976 7.94215 11.1983C7.66601 11.199 7.44159 10.9757 7.4409 10.6995L7.42702 5.16588C7.42633 4.88974 7.64962 4.66532 7.92576 4.66463Z" fill="currentColor"/>
+  <path fill-rule="evenodd" clip-rule="evenodd" d="M12.8324 3.03011C10.1255 0.323296 5.73693 0.323296 3.03011 3.03011C0.323296 5.73693 0.323296 10.1256 3.03011 12.8324C5.73693 15.5392 10.1255 15.5392 12.8324 12.8324C15.5392 10.1256 15.5392 5.73693 12.8324 3.03011ZM2.32301 2.32301C5.42035 -0.774336 10.4421 -0.774336 13.5395 2.32301C16.6101 5.39361 16.6366 10.3556 13.619 13.4588L18.2473 18.0871C18.4426 18.2824 18.4426 18.599 18.2473 18.7943C18.0521 18.9895 17.7355 18.9895 17.5402 18.7943L12.8778 14.1318C9.76383 16.6223 5.20839 16.4249 2.32301 13.5395C-0.774335 10.4421 -0.774335 5.42035 2.32301 2.32301Z" fill="currentColor"/>
+</svg>
+</span>
+
+  <div class="product__media media media--transparent gradient global-media-settings" style="padding-top: 77.26666666666667%;">
+    <img src="//cdn.shopify.com/s/files/1/0689/8073/6268/products/3_364431ea-2dcb-402c-89aa-41e9848867f1.jpg?v=1676214387&amp;width=1946" alt="" srcset="//cdn.shopify.com/s/files/1/0689/8073/6268/products/3_364431ea-2dcb-402c-89aa-41e9848867f1.jpg?v=1676214387&amp;width=246 246w, //cdn.shopify.com/s/files/1/0689/8073/6268/products/3_364431ea-2dcb-402c-89aa-41e9848867f1.jpg?v=1676214387&amp;width=493 493w, //cdn.shopify.com/s/files/1/0689/8073/6268/products/3_364431ea-2dcb-402c-89aa-41e9848867f1.jpg?v=1676214387&amp;width=600 600w, //cdn.shopify.com/s/files/1/0689/8073/6268/products/3_364431ea-2dcb-402c-89aa-41e9848867f1.jpg?v=1676214387&amp;width=713 713w, //cdn.shopify.com/s/files/1/0689/8073/6268/products/3_364431ea-2dcb-402c-89aa-41e9848867f1.jpg?v=1676214387&amp;width=823 823w, //cdn.shopify.com/s/files/1/0689/8073/6268/products/3_364431ea-2dcb-402c-89aa-41e9848867f1.jpg?v=1676214387&amp;width=990 990w, //cdn.shopify.com/s/files/1/0689/8073/6268/products/3_364431ea-2dcb-402c-89aa-41e9848867f1.jpg?v=1676214387&amp;width=1100 1100w, //cdn.shopify.com/s/files/1/0689/8073/6268/products/3_364431ea-2dcb-402c-89aa-41e9848867f1.jpg?v=1676214387&amp;width=1206 1206w, //cdn.shopify.com/s/files/1/0689/8073/6268/products/3_364431ea-2dcb-402c-89aa-41e9848867f1.jpg?v=1676214387&amp;width=1346 1346w, //cdn.shopify.com/s/files/1/0689/8073/6268/products/3_364431ea-2dcb-402c-89aa-41e9848867f1.jpg?v=1676214387&amp;width=1426 1426w, //cdn.shopify.com/s/files/1/0689/8073/6268/products/3_364431ea-2dcb-402c-89aa-41e9848867f1.jpg?v=1676214387&amp;width=1646 1646w, //cdn.shopify.com/s/files/1/0689/8073/6268/products/3_364431ea-2dcb-402c-89aa-41e9848867f1.jpg?v=1676214387&amp;width=1946 1946w" width="1946" height="1504" loading="lazy" sizes="(min-width: 1600px) 975px, (min-width: 990px) calc(65.0vw - 10rem), (min-width: 750px) calc((100vw - 11.5rem) / 2), calc(100vw / 1 - 4rem)">
+  </div>
+  <button class="product__media-toggle quick-add-hidden" type="button" aria-haspopup="dialog" data-media-id="35119790588172">
+    <span class="visually-hidden">
+      Ouvrir le média 3 dans une fenêtre modale
+    </span>
+  </button>
+</modal-opener></li></ul>
+          <div class="slider-buttons no-js-hidden quick-add-hidden">
+            <button
+              type="button"
+              class="slider-button slider-button--prev"
+              name="previous"
+              aria-label="Faire glisser vers la gauche"
+            >
+              <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-caret" viewBox="0 0 10 6">
+  <path fill-rule="evenodd" clip-rule="evenodd" d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z" fill="currentColor">
+</svg>
+
+            </button>
+            <div class="slider-counter caption">
+              <span class="slider-counter--current">1</span>
+              <span aria-hidden="true"> / </span>
+              <span class="visually-hidden">de</span>
+              <span class="slider-counter--total">3</span>
+            </div>
+            <button
+              type="button"
+              class="slider-button slider-button--next"
+              name="next"
+              aria-label="Faire glisser vers la droite"
+            >
+              <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-caret" viewBox="0 0 10 6">
+  <path fill-rule="evenodd" clip-rule="evenodd" d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z" fill="currentColor">
+</svg>
+
+            </button>
+          </div>
+        </slider-component></media-gallery>
+    </div>
+    <div class="product__info-wrapper grid__item">
+      <div
+        id="ProductInfo-template--17496348557580__main"
+        class="product__info-container product__info-container--sticky"
+      ><p
+                class="product__text caption-with-letter-spacing"
+                
+              >AMD</p><div class="product__title" >
+                <h1>AMD Ryzen 5 5600X</h1>
+                <a href="/products/amd-ryzen-5-5600x" class="product__title">
+                  <h2 class="h1">
+                    AMD Ryzen 5 5600X
+                  </h2>
+                </a>
+              </div><div class="no-js-hidden" id="price-template--17496348557580__main" role="status" >
+<div class="price price--large price--show-badge">
+  <div class="price__container"><div class="price__regular">
+      <span class="visually-hidden visually-hidden--inline">Prix habituel</span>
+      <span class="price-item price-item--regular">
+        <span class=money>€205.99 EUR</span>
+      </span>
+    </div>
+    <div class="price__sale">
+        <span class="visually-hidden visually-hidden--inline">Prix habituel</span>
+        <span>
+          <s class="price-item price-item--regular">
+            
+              
+            
+          </s>
+        </span><span class="visually-hidden visually-hidden--inline">Prix soldé</span>
+      <span class="price-item price-item--sale price-item--last">
+        <span class=money>€205.99 EUR</span>
+      </span>
+    </div>
+    <small class="unit-price caption hidden">
+      <span class="visually-hidden">Prix unitaire</span>
+      <span class="price-item price-item--last">
+        <span></span>
+        <span aria-hidden="true">/</span>
+        <span class="visually-hidden">&nbsp;par&nbsp;</span>
+        <span>
+        </span>
+      </span>
+    </small>
+  </div><span class="badge price__badge-sale color-accent-2">
+      Vente
+    </span>
+
+    <span class="badge price__badge-sold-out color-inverse">
+      Épuisé
+    </span></div>
+</div><div class="product__tax caption rte">Taxes incluses.
+<a href="/policies/shipping-policy">Frais d'expédition</a> calculés à l'étape de paiement.
+</div><div ><form method="post" action="/cart/add" id="product-form-installment-template--17496348557580__main" accept-charset="UTF-8" class="installment caption-large" enctype="multipart/form-data"><input type="hidden" name="form_type" value="product" /><input type="hidden" name="utf8" value="✓" /><input type="hidden" name="id" value="44146758844684">
+                  
+</form></div><noscript class="product-form__noscript-wrapper-template--17496348557580__main">
+                <div class="product-form__input hidden">
+                  <label class="form__label" for="Variants-template--17496348557580__main">Variantes de produits</label>
+                  <div class="select">
+                    <select
+                      name="id"
+                      id="Variants-template--17496348557580__main"
+                      class="select__select"
+                      form="product-form-template--17496348557580__main"
+                    ><option
+                          
+                            selected="selected"
+                          
+                          
+                          value="44146758844684"
+                        >
+                          Default Title
+
+                          - €205.99
+                        </option></select>
+                    <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-caret" viewBox="0 0 10 6">
+  <path fill-rule="evenodd" clip-rule="evenodd" d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z" fill="currentColor">
+</svg>
+
+                  </div>
+                </div>
+              </noscript><div
+                class="product-form__input product-form__quantity"
+                
+              >
+                <label class="form__label" for="Quantity-template--17496348557580__main">
+                  Quantité
+                </label>
+
+                <quantity-input class="quantity">
+                  <button class="quantity__button no-js-hidden" name="minus" type="button">
+                    <span class="visually-hidden">Réduire la quantité de AMD Ryzen 5 5600X</span>
+                    <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" role="presentation" class="icon icon-minus" fill="none" viewBox="0 0 10 2">
+  <path fill-rule="evenodd" clip-rule="evenodd" d="M.5 1C.5.7.7.5 1 .5h8a.5.5 0 110 1H1A.5.5 0 01.5 1z" fill="currentColor">
+</svg>
+
+                  </button>
+                  <input
+                    class="quantity__input"
+                    type="number"
+                    name="quantity"
+                    id="Quantity-template--17496348557580__main"
+                    min="1"
+                    value="1"
+                    form="product-form-template--17496348557580__main"
+                  >
+                  <button class="quantity__button no-js-hidden" name="plus" type="button">
+                    <span class="visually-hidden">Augmenter la quantité de AMD Ryzen 5 5600X</span>
+                    <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" role="presentation" class="icon icon-plus" fill="none" viewBox="0 0 10 10">
+  <path fill-rule="evenodd" clip-rule="evenodd" d="M1 4.51a.5.5 0 000 1h3.5l.01 3.5a.5.5 0 001-.01V5.5l3.5-.01a.5.5 0 00-.01-1H5.5L5.49.99a.5.5 0 00-1 .01v3.5l-3.5.01H1z" fill="currentColor">
+</svg>
+
+                  </button>
+                </quantity-input>
+              </div><div >
+                <product-form class="product-form">
+                  <div class="product-form__error-message-wrapper" role="alert" hidden>
+                    <svg
+                      aria-hidden="true"
+                      focusable="false"
+                      role="presentation"
+                      class="icon icon-error"
+                      viewBox="0 0 13 13"
+                    >
+                      <circle cx="6.5" cy="6.50049" r="5.5" stroke="white" stroke-width="2"/>
+                      <circle cx="6.5" cy="6.5" r="5.5" fill="#EB001B" stroke="#EB001B" stroke-width="0.7"/>
+                      <path d="M5.87413 3.52832L5.97439 7.57216H7.02713L7.12739 3.52832H5.87413ZM6.50076 9.66091C6.88091 9.66091 7.18169 9.37267 7.18169 9.00504C7.18169 8.63742 6.88091 8.34917 6.50076 8.34917C6.12061 8.34917 5.81982 8.63742 5.81982 9.00504C5.81982 9.37267 6.12061 9.66091 6.50076 9.66091Z" fill="white"/>
+                      <path d="M5.87413 3.17832H5.51535L5.52424 3.537L5.6245 7.58083L5.63296 7.92216H5.97439H7.02713H7.36856L7.37702 7.58083L7.47728 3.537L7.48617 3.17832H7.12739H5.87413ZM6.50076 10.0109C7.06121 10.0109 7.5317 9.57872 7.5317 9.00504C7.5317 8.43137 7.06121 7.99918 6.50076 7.99918C5.94031 7.99918 5.46982 8.43137 5.46982 9.00504C5.46982 9.57872 5.94031 10.0109 6.50076 10.0109Z" fill="white" stroke="#EB001B" stroke-width="0.7">
+                    </svg>
+                    <span class="product-form__error-message"></span>
+                  </div><form method="post" action="/cart/add" id="product-form-template--17496348557580__main" accept-charset="UTF-8" class="form" enctype="multipart/form-data" novalidate="novalidate" data-type="add-to-cart-form"><input type="hidden" name="form_type" value="product" /><input type="hidden" name="utf8" value="✓" /><input
+                      type="hidden"
+                      name="id"
+                      value="44146758844684"
+                      disabled
+                    >
+                    <div class="product-form__buttons">
+                      <button
+                        type="submit"
+                        name="add"
+                        class="product-form__submit button button--full-width button--secondary"
+                        
+                      >
+                        <span>Ajouter au panier
+</span>
+                        <div class="loading-overlay__spinner hidden">
+                          <svg
+                            aria-hidden="true"
+                            focusable="false"
+                            role="presentation"
+                            class="spinner"
+                            viewBox="0 0 66 66"
+                            xmlns="http://www.w3.org/2000/svg"
+                          >
+                            <circle class="path" fill="none" stroke-width="6" cx="33" cy="33" r="30"></circle>
+                          </svg>
+                        </div>
+                      </button><div data-shopify="payment-button" data-has-selling-plan="false" data-has-fixed-selling-plan="false" class="shopify-payment-button"><button class="shopify-payment-button__button shopify-payment-button__button--unbranded shopify-payment-button__button--hidden" disabled="disabled" aria-hidden="true"> </button><button class="shopify-payment-button__more-options shopify-payment-button__button--hidden" disabled="disabled" aria-hidden="true"> </button></div>
+</div></form><form method="post" action="/cart/add" id="product_form_8227454517516" accept-charset="UTF-8" class="shopify-product-form" enctype="multipart/form-data"><input type="hidden" name="form_type" value="product" /><input type="hidden" name="utf8" value="✓" />
+  <input type="hidden" name="id" value="8227454517516" />
+  <button type="button" class="btn wishlist-add__submit" id="ajouter-aux-favoris">
+    <span class="wishlist-add__icon"></span>Ajouter aux Favoris
+    <span class="wishlist-add__text"></span>
+  </button>
+</form>
+
+<style>
+  .js-wishlist-add .wishlist-add__submit {
+    font-size: 16px;
+    padding: 10px 20px;
+    margin-left: 20px;
+    margin-top: 20px;
+  }
+</style>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    // Selecionar o botão "Ajouter aux Favoris"
+    var button = document.querySelector("#ajouter-aux-favoris");
+
+    // Adicionar um evento de clique ao botão
+    button.addEventListener("click", function(event) {
+      event.preventDefault();
+
+      // Obter o ID do produto
+      var productId = document.querySelector("input[name='id']").value;
+
+      // Obter os favoritos do cookie
+      var favorites = JSON.parse(getCookie("favoritos")) || [];
+
+      // Verificar se o produto já está nos favoritos
+      if (favorites.indexOf(productId) === -1) {
+
+        // Adicionar o produto aos favoritos
+        favorites.push(productId);
+
+        // Salvar os favoritos no cookie
+        setCookie("favoritos", JSON.stringify(favorites), 365);
+
+        // Atualizar o botão "Ajouter aux Favoris" para indicar que o produto foi adicionado aos favoritos
+        button.innerHTML = "Adicionado aos Favoritos";
+
+      }
+
+    });
+  });
+</script>
+
+
+
+
+
+
+                  <style>
+                  .wishlist-add__submit {
+                  display: block;
+                  margin: 20px auto 0;
+                  margin-left: 133; /* adicione esta linha para definir a margem esquerda como zero */
+                  font-size: 16px;
+                  padding: 12px 10px;
+                  background-color: #5e17eb;
+                  color: black;
+                  border: 3px solid black;
+                  border-radius: 20px;
+                  border-color: black;
+                  font-family: BEEFCAKES, sans-serif;
+                  cursor: pointer;
+                  }
+                  </style>
+
+            
+                </product-form>
+
+                <link href="//cdn.shopify.com/s/files/1/0689/8073/6268/t/2/assets/component-pickup-availability.css?v=23027427361927693261675519462" rel="stylesheet" type="text/css" media="all" />
+<pickup-availability
+                  class="product__pickup-availabilities no-js-hidden quick-add-hidden"
+                  
+                  data-root-url="/"
+                  data-variant-id="44146758844684"
+                  data-has-only-default-variant="true"
+                >
+                  <template>
+                    <pickup-availability-preview class="pickup-availability-preview">
+                      <svg xmlns="http://www.w3.org/2000/svg" fill="none" aria-hidden="true" focusable="false" role="presentation" class="icon icon-unavailable" fill="none" viewBox="0 0 20 20">
+  <path fill="#DE3618" stroke="#fff" d="M13.94 3.94L10 7.878l-3.94-3.94A1.499 1.499 0 103.94 6.06L7.88 10l-3.94 3.94a1.499 1.499 0 102.12 2.12L10 12.12l3.94 3.94a1.497 1.497 0 002.12 0 1.499 1.499 0 000-2.12L12.122 10l3.94-3.94a1.499 1.499 0 10-2.121-2.12z"/>
+</svg>
+
+                      <div class="pickup-availability-info">
+                        <p class="caption-large">Impossible de charger la disponibilité du service de retrait</p>
+                        <button class="pickup-availability-button link link--text underlined-link">
+                          Actualiser
+                        </button>
+                      </div>
+                    </pickup-availability-preview>
+                  </template>
+                </pickup-availability>
+              </div>
+
+              <script src="//cdn.shopify.com/s/files/1/0689/8073/6268/t/2/assets/pickup-availability.js?v=79308454523338307861675519462" defer="defer"></script><div class="product__description rte quick-add-hidden">
+                  <h3><span style="text-decoration: underline;"><strong>Socket AM4 </strong></span></h3>
+Le processeur AMD Ryzen 5 5600X est spécialement conçu pour les jeux vidéo avec ses 6 cœurs, 12 threads et GameCache de 35 Mo. De plus, ses fréquences natives et boost élevées vous garantissent une expérience de jeu optimale pour tous vos titres préférés.<br>
+                </div><share-button
+                id="Share-template--17496348557580__main"
+                class="share-button quick-add-hidden"
+                
+              >
+                <button class="share-button__button hidden">
+                  <svg width="13" height="12" viewBox="0 0 13 12" class="icon icon-share" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false">
+  <path d="M1.625 8.125V10.2917C1.625 10.579 1.73914 10.8545 1.9423 11.0577C2.14547 11.2609 2.42102 11.375 2.70833 11.375H10.2917C10.579 11.375 10.8545 11.2609 11.0577 11.0577C11.2609 10.8545 11.375 10.579 11.375 10.2917V8.125" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"/>
+  <path fill-rule="evenodd" clip-rule="evenodd" d="M6.14775 1.27137C6.34301 1.0761 6.65959 1.0761 6.85485 1.27137L9.56319 3.9797C9.75845 4.17496 9.75845 4.49154 9.56319 4.6868C9.36793 4.88207 9.05135 4.88207 8.85609 4.6868L6.5013 2.33203L4.14652 4.6868C3.95126 4.88207 3.63468 4.88207 3.43942 4.6868C3.24415 4.49154 3.24415 4.17496 3.43942 3.9797L6.14775 1.27137Z" fill="currentColor"/>
+  <path fill-rule="evenodd" clip-rule="evenodd" d="M6.5 1.125C6.77614 1.125 7 1.34886 7 1.625V8.125C7 8.40114 6.77614 8.625 6.5 8.625C6.22386 8.625 6 8.40114 6 8.125V1.625C6 1.34886 6.22386 1.125 6.5 1.125Z" fill="currentColor"/>
+</svg>
+
+                  Partager
+                </button>
+                <details id="Details-share-template--17496348557580__main">
+                  <summary class="share-button__button">
+                    <svg width="13" height="12" viewBox="0 0 13 12" class="icon icon-share" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false">
+  <path d="M1.625 8.125V10.2917C1.625 10.579 1.73914 10.8545 1.9423 11.0577C2.14547 11.2609 2.42102 11.375 2.70833 11.375H10.2917C10.579 11.375 10.8545 11.2609 11.0577 11.0577C11.2609 10.8545 11.375 10.579 11.375 10.2917V8.125" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"/>
+  <path fill-rule="evenodd" clip-rule="evenodd" d="M6.14775 1.27137C6.34301 1.0761 6.65959 1.0761 6.85485 1.27137L9.56319 3.9797C9.75845 4.17496 9.75845 4.49154 9.56319 4.6868C9.36793 4.88207 9.05135 4.88207 8.85609 4.6868L6.5013 2.33203L4.14652 4.6868C3.95126 4.88207 3.63468 4.88207 3.43942 4.6868C3.24415 4.49154 3.24415 4.17496 3.43942 3.9797L6.14775 1.27137Z" fill="currentColor"/>
+  <path fill-rule="evenodd" clip-rule="evenodd" d="M6.5 1.125C6.77614 1.125 7 1.34886 7 1.625V8.125C7 8.40114 6.77614 8.625 6.5 8.625C6.22386 8.625 6 8.40114 6 8.125V1.625C6 1.34886 6.22386 1.125 6.5 1.125Z" fill="currentColor"/>
+</svg>
+
+                    Partager
+                  </summary>
+                  <div id="Product-share-template--17496348557580__main" class="share-button__fallback motion-reduce">
+                    <div class="field">
+                      <span id="ShareMessage-template--17496348557580__main" class="share-button__message hidden" role="status">
+                      </span>
+                      <input
+                        type="text"
+                        class="field__input"
+                        id="url"
+                        value="https://www.freakygeek.fr/products/amd-ryzen-5-5600x"
+                        placeholder="Lien"
+                        onclick="this.select();"
+                        readonly
+                      >
+                      <label class="field__label" for="url">Lien</label>
+                    </div>
+                    <button class="share-button__close hidden no-js-hidden">
+                      <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" role="presentation" class="icon icon-close" fill="none" viewBox="0 0 18 17">
+  <path d="M.865 15.978a.5.5 0 00.707.707l7.433-7.431 7.579 7.282a.501.501 0 00.846-.37.5.5 0 00-.153-.351L9.712 8.546l7.417-7.416a.5.5 0 10-.707-.708L8.991 7.853 1.413.573a.5.5 0 10-.693.72l7.563 7.268-7.418 7.417z" fill="currentColor">
+</svg>
+
+                      <span class="visually-hidden">Fermer le partage</span>
+                    </button>
+                    <button class="share-button__copy no-js-hidden">
+                      <svg class="icon icon-clipboard" width="11" height="13" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" viewBox="0 0 11 13">
+  <path fill-rule="evenodd" clip-rule="evenodd" d="M2 1a1 1 0 011-1h7a1 1 0 011 1v9a1 1 0 01-1 1V1H2zM1 2a1 1 0 00-1 1v9a1 1 0 001 1h7a1 1 0 001-1V3a1 1 0 00-1-1H1zm0 10V3h7v9H1z" fill="currentColor"/>
+</svg>
+
+                      <span class="visually-hidden">Copier le lien</span>
+                    </button>
+                  </div>
+                </details>
+              </share-button>
+              <script src="//cdn.shopify.com/s/files/1/0689/8073/6268/t/2/assets/share.js?v=23059556731731026671675519462" defer="defer"></script><a href="/products/amd-ryzen-5-5600x" class="link product__view-details animate-arrow">
+          Afficher tous les détails
+          <svg viewBox="0 0 14 10" fill="none" aria-hidden="true" focusable="false" role="presentation" class="icon icon-arrow" xmlns="http://www.w3.org/2000/svg">
+  <path fill-rule="evenodd" clip-rule="evenodd" d="M8.537.808a.5.5 0 01.817-.162l4 4a.5.5 0 010 .708l-4 4a.5.5 0 11-.708-.708L11.793 5.5H1a.5.5 0 010-1h10.793L8.646 1.354a.5.5 0 01-.109-.546z" fill="currentColor">
+</svg>
+
+        </a>
+      </div>
+    </div></div>
+
+  <product-modal id="ProductModal-template--17496348557580__main" class="product-media-modal media-modal">
+    <div
+      class="product-media-modal__dialog"
+      role="dialog"
+      aria-label="Galerie de supports multimédias"
+      aria-modal="true"
+      tabindex="-1"
+    >
+      <button
+        id="ModalClose-template--17496348557580__main"
+        type="button"
+        class="product-media-modal__toggle"
+        aria-label="Fermer"
+      >
+        <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" role="presentation" class="icon icon-close" fill="none" viewBox="0 0 18 17">
+  <path d="M.865 15.978a.5.5 0 00.707.707l7.433-7.431 7.579 7.282a.501.501 0 00.846-.37.5.5 0 00-.153-.351L9.712 8.546l7.417-7.416a.5.5 0 10-.707-.708L8.991 7.853 1.413.573a.5.5 0 10-.693.72l7.563 7.268-7.418 7.417z" fill="currentColor">
+</svg>
+
+      </button>
+
+      <div
+        class="product-media-modal__content gradient"
+        role="document"
+        aria-label="Galerie de supports multimédias"
+        tabindex="0"
+      >
+<img
+    class="global-media-settings global-media-settings--no-shadow"
+    srcset="//cdn.shopify.com/s/files/1/0689/8073/6268/products/1edit_c1422a8c-c59d-448c-9ab0-d5ab2e75cb7f.png?v=1676214389&width=550 550w,//cdn.shopify.com/s/files/1/0689/8073/6268/products/1edit_c1422a8c-c59d-448c-9ab0-d5ab2e75cb7f.png?v=1676214389 975w"
+    sizes="(min-width: 750px) calc(100vw - 22rem), 1100px"
+    src="//cdn.shopify.com/s/files/1/0689/8073/6268/products/1edit_c1422a8c-c59d-448c-9ab0-d5ab2e75cb7f.png?v=1676214389&width=1445"
+    alt="AMD Ryzen 5 5600X"
+    loading="lazy"
+    width="1100"
+    height="1104"
+    data-media-id="35119790522636"
+  >
+<img
+    class="global-media-settings global-media-settings--no-shadow"
+    srcset="//cdn.shopify.com/s/files/1/0689/8073/6268/products/2_85fb40a6-61ce-4ed3-b8d5-7d054670e7ca.jpg?v=1676214387&width=550 550w,//cdn.shopify.com/s/files/1/0689/8073/6268/products/2_85fb40a6-61ce-4ed3-b8d5-7d054670e7ca.jpg?v=1676214387&width=1100 1100w,//cdn.shopify.com/s/files/1/0689/8073/6268/products/2_85fb40a6-61ce-4ed3-b8d5-7d054670e7ca.jpg?v=1676214387&width=1445 1445w,//cdn.shopify.com/s/files/1/0689/8073/6268/products/2_85fb40a6-61ce-4ed3-b8d5-7d054670e7ca.jpg?v=1676214387 1480w"
+    sizes="(min-width: 750px) calc(100vw - 22rem), 1100px"
+    src="//cdn.shopify.com/s/files/1/0689/8073/6268/products/2_85fb40a6-61ce-4ed3-b8d5-7d054670e7ca.jpg?v=1676214387&width=1445"
+    alt="AMD Ryzen 5 5600X"
+    loading="lazy"
+    width="1100"
+    height="1115"
+    data-media-id="35119790555404"
+  >
+<img
+    class="global-media-settings global-media-settings--no-shadow"
+    srcset="//cdn.shopify.com/s/files/1/0689/8073/6268/products/3_364431ea-2dcb-402c-89aa-41e9848867f1.jpg?v=1676214387&width=550 550w,//cdn.shopify.com/s/files/1/0689/8073/6268/products/3_364431ea-2dcb-402c-89aa-41e9848867f1.jpg?v=1676214387&width=1100 1100w,//cdn.shopify.com/s/files/1/0689/8073/6268/products/3_364431ea-2dcb-402c-89aa-41e9848867f1.jpg?v=1676214387&width=1445 1445w,//cdn.shopify.com/s/files/1/0689/8073/6268/products/3_364431ea-2dcb-402c-89aa-41e9848867f1.jpg?v=1676214387 1500w"
+    sizes="(min-width: 750px) calc(100vw - 22rem), 1100px"
+    src="//cdn.shopify.com/s/files/1/0689/8073/6268/products/3_364431ea-2dcb-402c-89aa-41e9848867f1.jpg?v=1676214387&width=1445"
+    alt="AMD Ryzen 5 5600X"
+    loading="lazy"
+    width="1100"
+    height="850"
+    data-media-id="35119790588172"
+  ></div>
+    </div>
+  </product-modal>
+
+  
+<script src="//cdn.shopify.com/s/files/1/0689/8073/6268/t/2/assets/product-modal.js?v=50921580101160527761675519462" defer="defer"></script>
+    <script src="//cdn.shopify.com/s/files/1/0689/8073/6268/t/2/assets/media-gallery.js?v=136815418543071173961675519462" defer="defer"></script><script>
+    document.addEventListener('DOMContentLoaded', function() {
+      function isIE() {
+        const ua = window.navigator.userAgent;
+        const msie = ua.indexOf('MSIE ');
+        const trident = ua.indexOf('Trident/');
+
+        return (msie > 0 || trident > 0);
+      }
+
+      if (!isIE()) return;
+      const hiddenInput = document.querySelector('#product-form-template--17496348557580__main input[name="id"]');
+      const noScriptInputWrapper = document.createElement('div');
+      const variantSwitcher = document.querySelector('variant-radios[data-section="template--17496348557580__main"]') || document.querySelector('variant-selects[data-section="template--17496348557580__main"]');
+      noScriptInputWrapper.innerHTML = document.querySelector('.product-form__noscript-wrapper-template--17496348557580__main').textContent;
+      variantSwitcher.outerHTML = noScriptInputWrapper.outerHTML;
+
+      document.querySelector('#Variants-template--17496348557580__main').addEventListener('change', function(event) {
+        hiddenInput.value = event.currentTarget.value;
+      });
+    });
+  </script><script type="application/ld+json">
+    {
+      "@context": "http://schema.org/",
+      "@type": "Product",
+      "name": "AMD Ryzen 5 5600X",
+      "url": "https:\/\/www.freakygeek.fr\/products\/amd-ryzen-5-5600x",
+      "image": [
+          "https:\/\/cdn.shopify.com\/s\/files\/1\/0689\/8073\/6268\/products\/1edit_c1422a8c-c59d-448c-9ab0-d5ab2e75cb7f.png?v=1676214389\u0026width=975"
+        ],
+      "description": "Socket AM4 \nLe processeur AMD Ryzen 5 5600X est spécialement conçu pour les jeux vidéo avec ses 6 cœurs, 12 threads et GameCache de 35 Mo. De plus, ses fréquences natives et boost élevées vous garantissent une expérience de jeu optimale pour tous vos titres préférés.",
+      
+      "brand": {
+        "@type": "Brand",
+        "name": "AMD"
+      },
+      "offers": [{
+            "@type" : "Offer","availability" : "http://schema.org/InStock",
+            "price" : 205.99,
+            "priceCurrency" : "EUR",
+            "url" : "https:\/\/www.freakygeek.fr\/products\/amd-ryzen-5-5600x?variant=44146758844684"
+          }
+]
+    }
+  </script>
+</section>
+
+
+</section><section id="shopify-section-template--17496348557580__multicolumn" class="shopify-section section"><link href="//cdn.shopify.com/s/files/1/0689/8073/6268/t/2/assets/section-multicolumn.css?v=138363567467112740511675519462" rel="stylesheet" type="text/css" media="all" />
+<link rel="stylesheet" href="//cdn.shopify.com/s/files/1/0689/8073/6268/t/2/assets/component-slider.css?v=111384418465749404671675519462" media="print" onload="this.media='all'">
+<noscript><link href="//cdn.shopify.com/s/files/1/0689/8073/6268/t/2/assets/component-slider.css?v=111384418465749404671675519462" rel="stylesheet" type="text/css" media="all" /></noscript><style data-shopify>.section-template--17496348557580__multicolumn-padding {
+    padding-top: 27px;
+    padding-bottom: 27px;
+  }
+
+  @media screen and (min-width: 750px) {
+    .section-template--17496348557580__multicolumn-padding {
+      padding-top: 36px;
+      padding-bottom: 36px;
+    }
+  }</style><div class="multicolumn color-background-1 gradient no-heading">
+  <div class="page-width section-template--17496348557580__multicolumn-padding isolate"><slider-component class="slider-mobile-gutter">
+      <ul class="multicolumn-list contains-content-container grid grid--1-col-tablet-down grid--2-col-desktop"
+        id="Slider-template--17496348557580__multicolumn"
+        role="list"
+      ><li id="Slide-template--17496348557580__multicolumn-1" class="multicolumn-list__item grid__item" >
+            <div class="multicolumn-card content-container"><div class="multicolumn-card__info"><h3>Livraison Gratuite</h3><div class="rte"><p>Livraison Gratuite à partir de 50€</p></div><a class="link animate-arrow" href="/policies/shipping-policy">En savoir plus<span class="icon-wrap">&nbsp;<svg viewBox="0 0 14 10" fill="none" aria-hidden="true" focusable="false" role="presentation" class="icon icon-arrow" xmlns="http://www.w3.org/2000/svg">
+  <path fill-rule="evenodd" clip-rule="evenodd" d="M8.537.808a.5.5 0 01.817-.162l4 4a.5.5 0 010 .708l-4 4a.5.5 0 11-.708-.708L11.793 5.5H1a.5.5 0 010-1h10.793L8.646 1.354a.5.5 0 01-.109-.546z" fill="currentColor">
+</svg>
+</span></a></div>
+            </div>
+          </li><li id="Slide-template--17496348557580__multicolumn-2" class="multicolumn-list__item grid__item" >
+            <div class="multicolumn-card content-container"><div class="multicolumn-card__info"><h3>Retour &amp; échanges</h3><div class="rte"><p>Nous avons une politique de retour de 30 jours</p></div><a class="link animate-arrow" href="/policies/refund-policy">En savoir plus<span class="icon-wrap">&nbsp;<svg viewBox="0 0 14 10" fill="none" aria-hidden="true" focusable="false" role="presentation" class="icon icon-arrow" xmlns="http://www.w3.org/2000/svg">
+  <path fill-rule="evenodd" clip-rule="evenodd" d="M8.537.808a.5.5 0 01.817-.162l4 4a.5.5 0 010 .708l-4 4a.5.5 0 11-.708-.708L11.793 5.5H1a.5.5 0 010-1h10.793L8.646 1.354a.5.5 0 01-.109-.546z" fill="currentColor">
+</svg>
+</span></a></div>
+            </div>
+          </li></ul></slider-component>
+    <div class="center"></div>
+  </div>
+</div>
+
+
+</section><section id="shopify-section-template--17496348557580__product-recommendations" class="shopify-section section"><link rel="stylesheet" href="//cdn.shopify.com/s/files/1/0689/8073/6268/t/2/assets/component-card.css?v=13116108056750117421675519462" media="print" onload="this.media='all'">
+<link rel="stylesheet" href="//cdn.shopify.com/s/files/1/0689/8073/6268/t/2/assets/component-price.css?v=65402837579211014041675519462" media="print" onload="this.media='all'">
+<link rel="stylesheet" href="//cdn.shopify.com/s/files/1/0689/8073/6268/t/2/assets/section-product-recommendations.css?v=33851772221619654181675519462" media="print" onload="this.media='all'">
+
+<noscript><link href="//cdn.shopify.com/s/files/1/0689/8073/6268/t/2/assets/component-card.css?v=13116108056750117421675519462" rel="stylesheet" type="text/css" media="all" /></noscript>
+<noscript><link href="//cdn.shopify.com/s/files/1/0689/8073/6268/t/2/assets/component-price.css?v=65402837579211014041675519462" rel="stylesheet" type="text/css" media="all" /></noscript>
+<noscript><link href="//cdn.shopify.com/s/files/1/0689/8073/6268/t/2/assets/section-product-recommendations.css?v=33851772221619654181675519462" rel="stylesheet" type="text/css" media="all" /></noscript><style data-shopify>.section-template--17496348557580__product-recommendations-padding {
+    padding-top: 27px;
+    padding-bottom: 21px;
+  }
+
+  @media screen and (min-width: 750px) {
+    .section-template--17496348557580__product-recommendations-padding {
+      padding-top: 36px;
+      padding-bottom: 28px;
+    }
+  }</style><div class="color-background-1 gradient no-js-hidden">
+  <product-recommendations class="product-recommendations page-width section-template--17496348557580__product-recommendations-padding isolate" data-url="/recommendations/products?section_id=template--17496348557580__product-recommendations&product_id=8227454517516&limit=4">
+    
+  </product-recommendations>
+</div>
+
+
+</section>
+    </main>
+
+    <div id="shopify-section-footer" class="shopify-section">
+<link href="//cdn.shopify.com/s/files/1/0689/8073/6268/t/2/assets/section-footer.css?v=83777583229853969691675519462" rel="stylesheet" type="text/css" media="all" />
+<link rel="stylesheet" href="//cdn.shopify.com/s/files/1/0689/8073/6268/t/2/assets/component-newsletter.css?v=103472482056003053551675519462" media="print" onload="this.media='all'">
+<link rel="stylesheet" href="//cdn.shopify.com/s/files/1/0689/8073/6268/t/2/assets/component-list-menu.css?v=151968516119678728991675519462" media="print" onload="this.media='all'">
+<link rel="stylesheet" href="//cdn.shopify.com/s/files/1/0689/8073/6268/t/2/assets/component-list-payment.css?v=69253961410771838501675519462" media="print" onload="this.media='all'">
+<link rel="stylesheet" href="//cdn.shopify.com/s/files/1/0689/8073/6268/t/2/assets/component-list-social.css?v=52211663153726659061675519462" media="print" onload="this.media='all'">
+<link rel="stylesheet" href="//cdn.shopify.com/s/files/1/0689/8073/6268/t/2/assets/component-rte.css?v=69919436638515329781675519462" media="print" onload="this.media='all'">
+<link rel="stylesheet" href="//cdn.shopify.com/s/files/1/0689/8073/6268/t/2/assets/disclosure.css?v=646595190999601341675519462" media="print" onload="this.media='all'">
+
+<noscript><link href="//cdn.shopify.com/s/files/1/0689/8073/6268/t/2/assets/component-newsletter.css?v=103472482056003053551675519462" rel="stylesheet" type="text/css" media="all" /></noscript>
+<noscript><link href="//cdn.shopify.com/s/files/1/0689/8073/6268/t/2/assets/component-list-menu.css?v=151968516119678728991675519462" rel="stylesheet" type="text/css" media="all" /></noscript>
+<noscript><link href="//cdn.shopify.com/s/files/1/0689/8073/6268/t/2/assets/component-list-payment.css?v=69253961410771838501675519462" rel="stylesheet" type="text/css" media="all" /></noscript>
+<noscript><link href="//cdn.shopify.com/s/files/1/0689/8073/6268/t/2/assets/component-list-social.css?v=52211663153726659061675519462" rel="stylesheet" type="text/css" media="all" /></noscript>
+<noscript><link href="//cdn.shopify.com/s/files/1/0689/8073/6268/t/2/assets/component-rte.css?v=69919436638515329781675519462" rel="stylesheet" type="text/css" media="all" /></noscript>
+<noscript><link href="//cdn.shopify.com/s/files/1/0689/8073/6268/t/2/assets/disclosure.css?v=646595190999601341675519462" rel="stylesheet" type="text/css" media="all" /></noscript><style data-shopify>.footer {
+    margin-top: 0px;
+  }
+
+  .section-footer-padding {
+    padding-top: 15px;
+    padding-bottom: 0px;
+  }
+
+  @media screen and (min-width: 750px) {
+    .footer {
+      margin-top: 0px;
+    }
+
+    .section-footer-padding {
+      padding-top: 20px;
+      padding-bottom: 0px;
+    }
+  }</style><footer class="footer color-background-1 gradient section-footer-padding"><div class="footer__content-top page-width"><div class="footer__blocks-wrapper grid grid--1-col grid--2-col grid--4-col-tablet "><div class="footer-block grid__item footer-block--menu" ><ul class="footer-block__details-content list-unstyled"><li>
+                          <a href="/policies/legal-notice" class="link link--text list-menu__item list-menu__item--link">
+                            Mentions légales
+                          </a>
+                        </li><li>
+                          <a href="/policies/privacy-policy" class="link link--text list-menu__item list-menu__item--link">
+                            Politique de confidantialité
+                          </a>
+                        </li><li>
+                          <a href="/policies/refund-policy" class="link link--text list-menu__item list-menu__item--link">
+                            Politique de remboursement
+                          </a>
+                        </li><li>
+                          <a href="/policies/shipping-policy" class="link link--text list-menu__item list-menu__item--link">
+                            Politique d'expéditions
+                          </a>
+                        </li><li>
+                          <a href="/policies/terms-of-service" class="link link--text list-menu__item list-menu__item--link">
+                            Conditions d'utilisation
+                          </a>
+                        </li><li>
+                          <a href="/pages/ccpa-opt-out" class="link link--text list-menu__item list-menu__item--link">
+                            CCPA
+                          </a>
+                        </li><li>
+                          <a href="/policies/contact-information" class="link link--text list-menu__item list-menu__item--link">
+                            Contact
+                          </a>
+                        </li></ul></div></div><div class="footer-block--newsletter"></div>
+    </div><div class="footer__content-bottom">
+    <div class="footer__content-bottom-wrapper page-width">
+      <div class="footer__column footer__localization isolate"></div>
+      <div class="footer__column footer__column--info"><div class="footer__payment">
+            <span class="visually-hidden">Moyens de paiement</span>
+            <ul class="list list-payment" role="list"><li class="list-payment__item">
+                  <svg class="icon icon--full-color" xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 38 24" width="38" height="24" aria-labelledby="pi-american_express"><title id="pi-american_express">American Express</title><g fill="none"><path fill="#000" d="M35,0 L3,0 C1.3,0 0,1.3 0,3 L0,21 C0,22.7 1.4,24 3,24 L35,24 C36.7,24 38,22.7 38,21 L38,3 C38,1.3 36.6,0 35,0 Z" opacity=".07"/><path fill="#006FCF" d="M35,1 C36.1,1 37,1.9 37,3 L37,21 C37,22.1 36.1,23 35,23 L3,23 C1.9,23 1,22.1 1,21 L1,3 C1,1.9 1.9,1 3,1 L35,1"/><path fill="#FFF" d="M8.971,10.268 L9.745,12.144 L8.203,12.144 L8.971,10.268 Z M25.046,10.346 L22.069,10.346 L22.069,11.173 L24.998,11.173 L24.998,12.412 L22.075,12.412 L22.075,13.334 L25.052,13.334 L25.052,14.073 L27.129,11.828 L25.052,9.488 L25.046,10.346 L25.046,10.346 Z M10.983,8.006 L14.978,8.006 L15.865,9.941 L16.687,8 L27.057,8 L28.135,9.19 L29.25,8 L34.013,8 L30.494,11.852 L33.977,15.68 L29.143,15.68 L28.065,14.49 L26.94,15.68 L10.03,15.68 L9.536,14.49 L8.406,14.49 L7.911,15.68 L4,15.68 L7.286,8 L10.716,8 L10.983,8.006 Z M19.646,9.084 L17.407,9.084 L15.907,12.62 L14.282,9.084 L12.06,9.084 L12.06,13.894 L10,9.084 L8.007,9.084 L5.625,14.596 L7.18,14.596 L7.674,13.406 L10.27,13.406 L10.764,14.596 L13.484,14.596 L13.484,10.661 L15.235,14.602 L16.425,14.602 L18.165,10.673 L18.165,14.603 L19.623,14.603 L19.647,9.083 L19.646,9.084 Z M28.986,11.852 L31.517,9.084 L29.695,9.084 L28.094,10.81 L26.546,9.084 L20.652,9.084 L20.652,14.602 L26.462,14.602 L28.076,12.864 L29.624,14.602 L31.499,14.602 L28.987,11.852 L28.986,11.852 Z"/></g></svg>
+
+                </li><li class="list-payment__item">
+                  <svg class="icon icon--full-color" version="1.1" xmlns="http://www.w3.org/2000/svg" role="img" x="0" y="0" width="38" height="24" viewBox="0 0 165.521 105.965" xml:space="preserve" aria-labelledby="pi-apple_pay"><title id="pi-apple_pay">Apple Pay</title><path fill="#000" d="M150.698 0H14.823c-.566 0-1.133 0-1.698.003-.477.004-.953.009-1.43.022-1.039.028-2.087.09-3.113.274a10.51 10.51 0 0 0-2.958.975 9.932 9.932 0 0 0-4.35 4.35 10.463 10.463 0 0 0-.975 2.96C.113 9.611.052 10.658.024 11.696a70.22 70.22 0 0 0-.022 1.43C0 13.69 0 14.256 0 14.823v76.318c0 .567 0 1.132.002 1.699.003.476.009.953.022 1.43.028 1.036.09 2.084.275 3.11a10.46 10.46 0 0 0 .974 2.96 9.897 9.897 0 0 0 1.83 2.52 9.874 9.874 0 0 0 2.52 1.83c.947.483 1.917.79 2.96.977 1.025.183 2.073.245 3.112.273.477.011.953.017 1.43.02.565.004 1.132.004 1.698.004h135.875c.565 0 1.132 0 1.697-.004.476-.002.952-.009 1.431-.02 1.037-.028 2.085-.09 3.113-.273a10.478 10.478 0 0 0 2.958-.977 9.955 9.955 0 0 0 4.35-4.35c.483-.947.789-1.917.974-2.96.186-1.026.246-2.074.274-3.11.013-.477.02-.954.022-1.43.004-.567.004-1.132.004-1.699V14.824c0-.567 0-1.133-.004-1.699a63.067 63.067 0 0 0-.022-1.429c-.028-1.038-.088-2.085-.274-3.112a10.4 10.4 0 0 0-.974-2.96 9.94 9.94 0 0 0-4.35-4.35A10.52 10.52 0 0 0 156.939.3c-1.028-.185-2.076-.246-3.113-.274a71.417 71.417 0 0 0-1.431-.022C151.83 0 151.263 0 150.698 0z" /><path fill="#FFF" d="M150.698 3.532l1.672.003c.452.003.905.008 1.36.02.793.022 1.719.065 2.583.22.75.135 1.38.34 1.984.648a6.392 6.392 0 0 1 2.804 2.807c.306.6.51 1.226.645 1.983.154.854.197 1.783.218 2.58.013.45.019.9.02 1.36.005.557.005 1.113.005 1.671v76.318c0 .558 0 1.114-.004 1.682-.002.45-.008.9-.02 1.35-.022.796-.065 1.725-.221 2.589a6.855 6.855 0 0 1-.645 1.975 6.397 6.397 0 0 1-2.808 2.807c-.6.306-1.228.511-1.971.645-.881.157-1.847.2-2.574.22-.457.01-.912.017-1.379.019-.555.004-1.113.004-1.669.004H14.801c-.55 0-1.1 0-1.66-.004a74.993 74.993 0 0 1-1.35-.018c-.744-.02-1.71-.064-2.584-.22a6.938 6.938 0 0 1-1.986-.65 6.337 6.337 0 0 1-1.622-1.18 6.355 6.355 0 0 1-1.178-1.623 6.935 6.935 0 0 1-.646-1.985c-.156-.863-.2-1.788-.22-2.578a66.088 66.088 0 0 1-.02-1.355l-.003-1.327V14.474l.002-1.325a66.7 66.7 0 0 1 .02-1.357c.022-.792.065-1.717.222-2.587a6.924 6.924 0 0 1 .646-1.981c.304-.598.7-1.144 1.18-1.623a6.386 6.386 0 0 1 1.624-1.18 6.96 6.96 0 0 1 1.98-.646c.865-.155 1.792-.198 2.586-.22.452-.012.905-.017 1.354-.02l1.677-.003h135.875" /><g><g><path fill="#000" d="M43.508 35.77c1.404-1.755 2.356-4.112 2.105-6.52-2.054.102-4.56 1.355-6.012 3.112-1.303 1.504-2.456 3.959-2.156 6.266 2.306.2 4.61-1.152 6.063-2.858" /><path fill="#000" d="M45.587 39.079c-3.35-.2-6.196 1.9-7.795 1.9-1.6 0-4.049-1.8-6.698-1.751-3.447.05-6.645 2-8.395 5.1-3.598 6.2-.95 15.4 2.55 20.45 1.699 2.5 3.747 5.25 6.445 5.151 2.55-.1 3.549-1.65 6.647-1.65 3.097 0 3.997 1.65 6.696 1.6 2.798-.05 4.548-2.5 6.247-5 1.95-2.85 2.747-5.6 2.797-5.75-.05-.05-5.396-2.101-5.446-8.251-.05-5.15 4.198-7.6 4.398-7.751-2.399-3.548-6.147-3.948-7.447-4.048" /></g><g><path fill="#000" d="M78.973 32.11c7.278 0 12.347 5.017 12.347 12.321 0 7.33-5.173 12.373-12.529 12.373h-8.058V69.62h-5.822V32.11h14.062zm-8.24 19.807h6.68c5.07 0 7.954-2.729 7.954-7.46 0-4.73-2.885-7.434-7.928-7.434h-6.706v14.894z" /><path fill="#000" d="M92.764 61.847c0-4.809 3.665-7.564 10.423-7.98l7.252-.442v-2.08c0-3.04-2.001-4.704-5.562-4.704-2.938 0-5.07 1.507-5.51 3.82h-5.252c.157-4.86 4.731-8.395 10.918-8.395 6.654 0 10.995 3.483 10.995 8.89v18.663h-5.38v-4.497h-.13c-1.534 2.937-4.914 4.782-8.579 4.782-5.406 0-9.175-3.222-9.175-8.057zm17.675-2.417v-2.106l-6.472.416c-3.64.234-5.536 1.585-5.536 3.95 0 2.288 1.975 3.77 5.068 3.77 3.95 0 6.94-2.522 6.94-6.03z" /><path fill="#000" d="M120.975 79.652v-4.496c.364.051 1.247.103 1.715.103 2.573 0 4.029-1.09 4.913-3.899l.52-1.663-9.852-27.293h6.082l6.863 22.146h.13l6.862-22.146h5.927l-10.216 28.67c-2.34 6.577-5.017 8.735-10.683 8.735-.442 0-1.872-.052-2.261-.157z" /></g></g></svg>
+
+                </li><li class="list-payment__item">
+                  <svg class="icon icon--full-color" viewBox="0 0 38 24" xmlns="http://www.w3.org/2000/svg" role="img" width="38" height="24" aria-labelledby="pi-master"><title id="pi-master">Mastercard</title><path opacity=".07" d="M35 0H3C1.3 0 0 1.3 0 3v18c0 1.7 1.4 3 3 3h32c1.7 0 3-1.3 3-3V3c0-1.7-1.4-3-3-3z"/><path fill="#fff" d="M35 1c1.1 0 2 .9 2 2v18c0 1.1-.9 2-2 2H3c-1.1 0-2-.9-2-2V3c0-1.1.9-2 2-2h32"/><circle fill="#EB001B" cx="15" cy="12" r="7"/><circle fill="#F79E1B" cx="23" cy="12" r="7"/><path fill="#FF5F00" d="M22 12c0-2.4-1.2-4.5-3-5.7-1.8 1.3-3 3.4-3 5.7s1.2 4.5 3 5.7c1.8-1.2 3-3.3 3-5.7z"/></svg>
+                </li><li class="list-payment__item">
+                  <svg class="icon icon--full-color" viewBox="0 0 38 24" xmlns="http://www.w3.org/2000/svg" width="38" height="24" role="img" aria-labelledby="pi-paypal"><title id="pi-paypal">PayPal</title><path opacity=".07" d="M35 0H3C1.3 0 0 1.3 0 3v18c0 1.7 1.4 3 3 3h32c1.7 0 3-1.3 3-3V3c0-1.7-1.4-3-3-3z"/><path fill="#fff" d="M35 1c1.1 0 2 .9 2 2v18c0 1.1-.9 2-2 2H3c-1.1 0-2-.9-2-2V3c0-1.1.9-2 2-2h32"/><path fill="#003087" d="M23.9 8.3c.2-1 0-1.7-.6-2.3-.6-.7-1.7-1-3.1-1h-4.1c-.3 0-.5.2-.6.5L14 15.6c0 .2.1.4.3.4H17l.4-3.4 1.8-2.2 4.7-2.1z"/><path fill="#3086C8" d="M23.9 8.3l-.2.2c-.5 2.8-2.2 3.8-4.6 3.8H18c-.3 0-.5.2-.6.5l-.6 3.9-.2 1c0 .2.1.4.3.4H19c.3 0 .5-.2.5-.4v-.1l.4-2.4v-.1c0-.2.3-.4.5-.4h.3c2.1 0 3.7-.8 4.1-3.2.2-1 .1-1.8-.4-2.4-.1-.5-.3-.7-.5-.8z"/><path fill="#012169" d="M23.3 8.1c-.1-.1-.2-.1-.3-.1-.1 0-.2 0-.3-.1-.3-.1-.7-.1-1.1-.1h-3c-.1 0-.2 0-.2.1-.2.1-.3.2-.3.4l-.7 4.4v.1c0-.3.3-.5.6-.5h1.3c2.5 0 4.1-1 4.6-3.8v-.2c-.1-.1-.3-.2-.5-.2h-.1z"/></svg>
+                </li><li class="list-payment__item">
+                  <svg class="icon icon--full-color" viewBox="0 0 38 24" xmlns="http://www.w3.org/2000/svg" role="img" width="38" height="24" aria-labelledby="pi-visa"><title id="pi-visa">Visa</title><path opacity=".07" d="M35 0H3C1.3 0 0 1.3 0 3v18c0 1.7 1.4 3 3 3h32c1.7 0 3-1.3 3-3V3c0-1.7-1.4-3-3-3z"/><path fill="#fff" d="M35 1c1.1 0 2 .9 2 2v18c0 1.1-.9 2-2 2H3c-1.1 0-2-.9-2-2V3c0-1.1.9-2 2-2h32"/><path d="M28.3 10.1H28c-.4 1-.7 1.5-1 3h1.9c-.3-1.5-.3-2.2-.6-3zm2.9 5.9h-1.7c-.1 0-.1 0-.2-.1l-.2-.9-.1-.2h-2.4c-.1 0-.2 0-.2.2l-.3.9c0 .1-.1.1-.1.1h-2.1l.2-.5L27 8.7c0-.5.3-.7.8-.7h1.5c.1 0 .2 0 .2.2l1.4 6.5c.1.4.2.7.2 1.1.1.1.1.1.1.2zm-13.4-.3l.4-1.8c.1 0 .2.1.2.1.7.3 1.4.5 2.1.4.2 0 .5-.1.7-.2.5-.2.5-.7.1-1.1-.2-.2-.5-.3-.8-.5-.4-.2-.8-.4-1.1-.7-1.2-1-.8-2.4-.1-3.1.6-.4.9-.8 1.7-.8 1.2 0 2.5 0 3.1.2h.1c-.1.6-.2 1.1-.4 1.7-.5-.2-1-.4-1.5-.4-.3 0-.6 0-.9.1-.2 0-.3.1-.4.2-.2.2-.2.5 0 .7l.5.4c.4.2.8.4 1.1.6.5.3 1 .8 1.1 1.4.2.9-.1 1.7-.9 2.3-.5.4-.7.6-1.4.6-1.4 0-2.5.1-3.4-.2-.1.2-.1.2-.2.1zm-3.5.3c.1-.7.1-.7.2-1 .5-2.2 1-4.5 1.4-6.7.1-.2.1-.3.3-.3H18c-.2 1.2-.4 2.1-.7 3.2-.3 1.5-.6 3-1 4.5 0 .2-.1.2-.3.2M5 8.2c0-.1.2-.2.3-.2h3.4c.5 0 .9.3 1 .8l.9 4.4c0 .1 0 .1.1.2 0-.1.1-.1.1-.1l2.1-5.1c-.1-.1 0-.2.1-.2h2.1c0 .1 0 .1-.1.2l-3.1 7.3c-.1.2-.1.3-.2.4-.1.1-.3 0-.5 0H9.7c-.1 0-.2 0-.2-.2L7.9 9.5c-.2-.2-.5-.5-.9-.6-.6-.3-1.7-.5-1.9-.5L5 8.2z" fill="#142688"/></svg>
+                </li></ul>
+          </div><div class="footer__copyright caption">
+          <small class="copyright__content">&copy; 2023, <a href="/" title="">Freaky Geek</a></small>
+          <small class="copyright__content"><a target="_blank" rel="nofollow" href="https://fr.shopify.com?utm_campaign=poweredby&amp;utm_medium=shopify&amp;utm_source=onlinestore">Commerce électronique propulsé par Shopify</a></small>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+
+
+
+</div>
+
+    <ul hidden>
+      <li id="a11y-refresh-page-message">Le choix d&#39;une sélection entraîne l&#39;actualisation de la page entière.</li>
+      <li id="a11y-new-window-message">S&#39;ouvre dans une nouvelle fenêtre.</li>
+    </ul>
+
+    <script>
+      window.shopUrl = 'https://www.freakygeek.fr';
+      window.routes = {
+        cart_add_url: '/cart/add',
+        cart_change_url: '/cart/change',
+        cart_update_url: '/cart/update',
+        cart_url: '/cart',
+        predictive_search_url: '/search/suggest'
+      };
+
+      window.cartStrings = {
+        error: `Une erreur est survenue lors de l’actualisation de votre panier. Veuillez réessayer.`,
+        quantityError: `Vous ne pouvez pas ajouter plus de [quantity] de ce produit à votre panier.`
+      }
+
+      window.variantStrings = {
+        addToCart: `Ajouter au panier`,
+        soldOut: `Épuisé`,
+        unavailable: `Non disponible`,
+      }
+
+      window.accessibilityStrings = {
+        imageAvailable: `L&#39;image [index] est maintenant disponible dans la galerie`,
+        shareSuccess: `Lien copié dans le presse-papiers`,
+        pauseSlideshow: `Interrompre le diaporama`,
+        playSlideshow: `Lire le diaporama`,
+      }
+    </script><script src="//cdn.shopify.com/s/files/1/0689/8073/6268/t/2/assets/predictive-search.js?v=31278710863581584031675519462" defer="defer"></script><link href="//cdn.shopify.com/s/files/1/0689/8073/6268/t/2/assets/zifyapp-fblogin.css?1207" rel="stylesheet" type="text/css" media="all" />
+<script src="//cdn.shopify.com/s/files/1/0689/8073/6268/t/2/assets/zifyapp-fblogin.js?1207" type="text/javascript"></script>
+
+<script src="//code.tidio.co/wbrcqebeuyjvnlfuxzxstakm15mmxpz3.js" async></script>
+    
+
+<!-- "snippets/swymSnippet.liquid" was not rendered, the associated app was uninstalled -->
+
+
+	</body>
+</html>
