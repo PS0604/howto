@@ -1,0 +1,68 @@
+{% form 'product', product %}
+  <input type="hidden" name="id" value="{{ product.id }}" />
+  <button type="button" class="btn wishlist-add__submit" id="ajouter-aux-favoris">
+    <span class="wishlist-add__icon"></span>Ajouter aux Favoris
+    <span class="wishlist-add__text"></span>
+  </button>
+{% endform %}
+
+<style>
+  .js-wishlist-add .wishlist-add__submit {
+  font-size: 16px;
+  padding: 10px 20px;
+  margin-left: 20px;
+  margin-top: 20px;
+}
+
+@media (max-width: 767px) {
+  .js-wishlist-add .wishlist-add__submit {
+    margin-left: 100px;
+  }
+}
+</style>
+
+<script>
+  // Quando o botão "Ajouter aux Favoris" é clicado
+document.getElementById("ajouter-aux-favoris").addEventListener("click", function() {
+  // Adicione as informações do produto à lista de favoritos no cookie
+  var favoritos = getCookie("wishlist");
+console.log(favoritos); // Verifica o valor de favoritos
+if (favoritos) {
+  favoritos = JSON.parse(favoritos);
+} else {
+  favoritos = [];
+}
+  favoritos.push({
+    product_id: {{ product.id }},
+    product_title: '{{ product.title }}',
+    product_image: '{{ product.featured_image.src | img_url: '200x200' }}',
+    product_url: '{{ product.url }}',
+    product_price: {{ product.price | money_without_currency | remove: "," | remove: "." }},
+    product_handle: '{{ product.handle }}',
+    quantity: 1
+  });
+  setCookie("wishlist", JSON.stringify(favoritos), 365);
+  alert('Produto adicionado à lista de desejos com sucesso!');
+});
+
+// Função para ler um cookie
+function getCookie(wishlist) {
+  var value = "; " + document.cookie;
+  var parts = value.split("; " + wishlist + "=");
+  if (parts.length == 2) {
+    return parts.pop().split(";").shift();
+  }
+}
+
+// Função para definir um cookie
+function setCookie(name, value, days) {
+  var expires = "";
+  if (days) {
+    var date = new Date();
+    date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
+    expires = "; expires=" + date.toUTCString();
+  }
+  document.cookie = name + "=" + (value || "") + expires + "; path=/";
+}
+
+</script>
