@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Mes Favoris</title>
+  </head>
+  <body>
+    {% layout none %}
+
+    <!-- Adicione o código HTML para exibir os itens da lista de favoritos aqui -->
+    {% assign favoritos = getCookie("wishlist") | json %}
+    {% if favoritos %}
+      {% for item in favoritos %}
+        <h3>{{ item.product_title }}</h3>
+        <img src="{{ item.product_image }}" alt="{{ item.product_title }}" />
+        <p>{{ item.product_price | money }}</p>
+        <button onclick="removeFromWishlist({{ item.product_id }})">Remover</button>
+      {% endfor %}
+    {% else %}
+      <p>Não há itens na lista de desejos.</p>
+    {% endif %}
+
+    <script>
+      // Função para remover um item da lista de favoritos no cookie
+      function removeFromWishlist(product_id) {
+        var favoritos = JSON.parse(getCookie("wishlist"));
+        for (var i = 0; i < favoritos.length; i++) {
+          if (favoritos[i].product_id === product_id) {
+            favoritos.splice(i, 1);
+            break;
+          }
+        }
+        setCookie("wishlist", JSON.stringify(favoritos), 365);
+        // Atualize a página para refletir a remoção do item da lista de favoritos
+        location.reload();
+      }
+
+      // Função para ler um cookie
+      function getCookie(name) {
+        var value = "; " + document.cookie;
+        var parts = value.split("; " + name + "=");
+        if (parts.length == 2) {
+          return parts.pop().split(";").shift();
+        }
+      }
+
+      // Função para definir um cookie
+      function setCookie(name, value, days) {
+        var expires = "";
+        if (days) {
+          var date = new Date();
+          date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
+          expires = "; expires=" + date.toUTCString();
+        }
+        document.cookie = name + "=" + (value || "") + expires + "; path=/";
+      }
+    </script>
+  </body>
+</html>
